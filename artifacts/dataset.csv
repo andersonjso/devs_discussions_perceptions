@@ -1,0 +1,1528 @@
+NUMBER_PR,SYSTEM,URL,NFR_TYPE,PHRASE,KEYWORDS,LOCATION,OBS
+4119,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4119,None,-,-,-,Added support for detecting the DB2 Universal JDBC driver
+3160,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3160,Maintainability,"""Fix default value""","""fix default""",Title,
+4618,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4618,Maintainability,""" be a little brittle and had to maintain""","""maintain""",Discussion,-
+22164,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22164,Maintainability,"""favour of it being maintained by the Atomikos team""","""maintained""",Discussion,-
+15594,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15594,None,-,-,-,-
+26311,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26311,None,-,-,-,-
+118,Spring Boot,https://github.com/spring-projects/spring-boot/pull/118,Robustness,"""should fails fast"", ""the application starts and only the exception is logged"",
+"" re-throws the Excpetion, ""shuts down""","""should fail"", ""exception"", ""re-throws"", ""shuts down""","Title, Description",-
+10000,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10000,Security,"""Add protected logger""","""protected""",Title,-
+17591,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17591,None,-,-,-,-
+11431,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11431,None,-,-,-,-
+6367,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6367,None,-,-,-,-
+14471,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14471,None,-,-,-,-
+9052,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9052,Maintainability,"""Fixes configuration properties output for actuator ""","""configuration properties""",Title,-
+31172,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31172,None,-,-,-,-
+20002,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20002,None,-,-,-,-
+15954,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15954,None,-,-,-,-
+11365,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11365,None,-,-,-,-
+4120,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4120,None,-,-,-,-
+16446,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16446,Maintainability,"""Small code cleanups such as removing a redundant class cast, null check and making fields final that can be final""","""clean""",Description,
+7216,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7216,None,-,-,-,-
+17703,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17703,None,-,-,-,-
+13078,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13078,None,-,-,-,-
+15823,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15823,None,-,-,-,-
+28779,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28779,None,-,-,-,-
+29703,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29703,None,-,-,-,-
+14497,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14497,None,-,-,-,-
+6576,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6576,Maintainability,"""Adding a Tip about the trigger-file""","""tip""",Description,-
+18166,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18166,Maintainability,"""Simplify code""","""simplify""",Title,-
+14212,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14212,None,-,-,-,-
+19905,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19905,None,-,-,-,-
+4411,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4411,Performance,""" feature because of performance concern""","""performance""",Discussion,-
+2998,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2998,None,-,-,-,-
+14937,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14937,Maintainability,"""replace lambda""","""replace""",Title,-
+6672,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6672,None,-,-,-,-
+7316,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7316,None,-,-,-,-
+6410,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6410,Maintainability,"""Fixed ServletContextInitializer documentation""","""documentation""",Title,-
+6782,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6782,None,-,-,-,-
+5852,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5852,Security,"""Use trust store of SSL store provider to set trust store in""","""SSL""",Title,-
+7022,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7022,None,-,-,-,-
+899,Spring Boot,https://github.com/spring-projects/spring-boot/pull/899,None,-,-,-,-
+6579,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6579,None,-,-,-,-
+5041,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5041,Maintainability,"""Improve systemd service documentation""","""documentation""",Title,-
+11604,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11604,Maintainability,"""This pull request clarifies TestRestTemplate documentation""","""documentation""",Description,
+20495,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20495,None,-,-,-,-
+5197,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5197,Maintainability,"""Update Readme.adoc""","""readme""",Title,
+1120,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1120,None,-,-,-,-
+19211,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19211,Maintainability,"""Improve documentation coverage ""","""documentation""",Title,-
+13614,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13614,None,-,-,-,-
+10708,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10708,None,-,-,-,-
+6539,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6539,Maintainability,"""Enhanced documentation regarding ""","""documentation""",Title,-
+23540,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23540,None,-,-,-,-
+10833,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10833,None,-,-,-,-
+8585,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8585,None,-,-,-,-
+5627,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5627,None,-,-,-,-
+11388,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11388,None,-,-,-,-
+8161,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8161,None,-,-,-,-
+14592,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14592,None,-,-,-,-
+12635,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12635,None,-,-,-,-
+11451,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11451,None,-,-,-,-
+3942,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3942,None,-,-,-,-
+11762,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11762,Maintainability,"""Fixing duplication of String literals""","""duplication""",-,-
+1597,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1597,None,-,-,-,-
+3014,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3014,None,-,-,-,-
+607,Spring Boot,https://github.com/spring-projects/spring-boot/pull/607,None,-,-,-,-
+25781,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25781,None,-,-,-,-
+20141,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20141,None,-,-,-,-
+22256,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22256,Robustness,"""throws an exception when the configuration includes a valid mongo-URI""","""throws"", ""exception""",Description,-
+15666,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15666,None,-,-,-,-
+10721,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10721,None,-,-,-,-
+25810,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25810,None,-,-,-,-
+28796,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28796,None,-,-,-,-
+14582,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14582,None,-,-,-,-
+10495,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10495,None,-,-,-,-
+6707,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6707,None,-,-,-,-
+4362,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4362,None,-,-,-,-
+8683,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8683,None,-,-,-,-
+9445,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9445,None,-,-,-,-
+25115,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25115,None,-,-,-,-
+17239,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17239,None,-,-,-,-
+7787,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7787,None,-,-,-,-
+25116,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25116,Maintainability,""" exclude the duplicate legal files in the few problematic places""","""duplicated""",Description,-
+23104,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23104,None,-,-,-,-
+11871,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11871,None,-,-,-,-
+11518,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11518,None,-,-,-,-
+25598,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25598,None,-,-,-,-
+20917,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20917,None,-,-,-,-
+4327,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4327,None,-,-,-,-
+23636,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23636,None,-,-,-,-
+1031,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1031,Performance,"""The double evaluation then causes injection
+ambiguities as we now get multiple beans ""","""multiple beans""",Description,-
+19850,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19850,Robustness,"""Additionally catch NoSuchFileException in IndexedLayers""","""catch""",Title,-
+13966,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13966,None,-,-,-,-
+12449,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12449,Robustness,"""methods should throw NoSuchElementException""","""throw""",Title,-
+17617,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17617,None,-,-,-,-
+13837,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13837,None,-,-,-,-
+20230,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20230,Robustness,"""I am seeing the following failure when running this test:""","""failure""",Discussion,-
+6770,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6770,Maintainability,"""but I think the documentation could be a bit more clear.""","""documentation""",Description,-
+2245,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2245,Robustness,"""fixed jetty9 MalformedURLException"", ""My Jetty 9 application throws"", ""attach the stacktrace""","""throws"", ""stacktrace""","Title, Description",-
+17913,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17913,None,-,-,-,-
+23050,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23050,None,-,-,-,-
+6851,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6851,None,-,-,-,-
+16873,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16873,Performance,"""This commit makes the repackager thread-safe when it is invoked concurrently in the same lifecycle."", 
+""I still don't understand how synchronized""","""thread-safe"", ""sychronized""","Description, Discussion",-
+31327,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31327,None,-,-,-,-
+13159,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13159,None,-,-,-,-
+7801,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7801,None,-,-,-,-
+10546,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10546,Robustness,"""Fix NPE if no database url is given""","""NPE""",Title,-
+18632,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18632,,,,,
+25726,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25726,Performance,"""they aren't ready to handle traffic""","""traffic""",Discussion,-
+8911,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8911,None,-,-,-,-
+19955,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19955,None,-,-,-,-
+16472,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16472,None,-,-,-,-
+7241,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7241,None,-,-,-,-
+28400,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28400,None,-,-,-,-
+16583,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16583,None,-,-,-,-
+16180,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16180,None,-,-,-,-
+16285,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16285,Maintainability,"""URL Cleanup""","""cleanup""",Title,
+3283,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3283,None,-,-,-,-
+16733,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16733,None,,,,
+10177,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10177,None,,,,
+8392,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8392,None,,,,
+28801,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28801,None,,,,
+16080,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16080,None,,,,
+6414,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6414,None,,,,
+26441,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26441,Maintainability,"""Remove unnecessary throws declaration in tests""","""remove"",""unecessary""",Title,
+742,Spring Boot,https://github.com/spring-projects/spring-boot/pull/742,None,,,,
+23080,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23080,None,,,,
+31151,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31151,None,,,,
+16560,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16560,None,,,,
+9557,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9557,None,,,,
+23766,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23766,None,,,,
+7881,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7881,None,,,,
+75,Spring Boot,https://github.com/spring-projects/spring-boot/pull/75,None,,,,
+19898,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19898,None,,,,
+22397,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22397,None,,,,
+3534,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3534,None,,,,
+7533,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7533,None,,,,
+13536,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13536,None,,,,
+17952,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17952,Security,"""When both properties jwk-set-uri and issuer-uri are set, it will create a JwtDecoder using jwk-set-uri and adds an issuer validation using the issuer-uri.""","""JWT""",Description,
+15770,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15770,Performance,"""Right now, invoking the health endpoint lead to a synchronous invocation of all underlying HealthIndicator instance(s) that have been configured. It would be nice to offer an option to run these in parallel instead.""","""paralel"", ""synchronous""",Description,
+16083,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16083,None,,,,
+6075,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6075,None,,,,
+11825,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11825,None,,,,
+6117,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6117,None,,,,
+2520,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2520,None,,,,
+623,Spring Boot,https://github.com/spring-projects/spring-boot/pull/623,None,,,,
+2280,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2280,None,,,,
+30078,Spring Boot,https://github.com/spring-projects/spring-boot/pull/30078,Maintainability,"""DataFetcherExceptionResolver beans are not considered in GraphQlTester slice tests""","""tests""",Title,
+13483,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13483,None,,,,
+29755,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29755,None,,,,
+17473,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17473,None,,,,
+24314,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24314,None,,,,
+12117,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12117,None,,,,
+17238,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17238,None,,,,
+2816,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2816,Security,"""Without security, other sensitive endpoints like /autoconfig should not be exposed unless its sensitive is set to false explicitly.""","""security"",""exposed""",Description,
+27736,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27736,None,,,,
+13019,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13019,None,,,,
+31304,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31304,Robustness,"""Add null check on throws exception indicating malformed json if null""","""throws"",""exception"", ""null""",Title,
+11055,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11055,None,,,,
+7851,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7851,Performance,"""Reduce memory footprint of AsciiBytes.hashCode(int hash, String string)""","""memory""",Title,
+14056,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14056,Performance,"""replaces a few loops over enumerations with Collections.list() where possible.""",,Description,
+8904,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8904,None,,,,
+16246,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16246,None,,,,
+20592,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20592,None,,,,
+31660,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31660,None,,,,
+29182,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29182,None,,,,
+11439,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11439,Maintainability,"""Move CorsEndpointProperties to the upper package""",,Title,
+11948,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11948,None,,,,
+19913,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19913,None,,,,
+2592,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2592,None,,,,
+28170,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28170,None,,,,
+20242,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20242,None,,,,
+23799,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23799,None,,,,
+24661,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24661,Maintainability,"""Remove redundant judgment conditions in DefaultErrorAttributes""",,Title,
+28123,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28123,Maintainability,"""Support PEM format for Kafka SSL certificates and private key""",,Title,
+23575,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23575,None,,,,
+14518,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14518,None,,,,
+8486,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8486,None,,,,
+2533,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2533,None,,,,
+20047,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20047,None,,,,
+26448,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26448,Maintainability,"""Redundant suppression in test""",,Title,
+4486,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4486,None,,,,
+12732,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12732,Maintainability,"""Fix Document cache in ConfigFileApplicationListener""","""fix""",Title,
+18446,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18446,None,,,,
+13438,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13438,None,,,,
+21492,Spring Boot,https://github.com/spring-projects/spring-boot/pull/21492,None,,,,
+17939,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17939,Security,"""Additional sanitization for URI being exposed over Endpoints""","""exposed""",Title,
+28239,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28239,None,,,,
+17106,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17106,None,,,,
+31448,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31448,None,,,,
+24245,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24245,None,,,,
+25377,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25377,None,,,,
+3866,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3866,None,,,,
+26866,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26866,None,,,,
+26340,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26340,None,,,,
+1784,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1784,None,,,,
+29033,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29033,None,,,,
+7438,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7438,None,,,,
+15709,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15709,Robustness,"""Unlike Jetty and Tomcat, Reactor Netty and Undertow do not cause a startup failure when SSL is enabled but no key store is configured""","""failure""",Title,
+27940,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27940,None,,,,
+15089,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15089,None,,,,
+19992,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19992,None,,,,
+21769,Spring Boot,https://github.com/spring-projects/spring-boot/pull/21769,None,,,,
+9928,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9928,None,,,,
+11466,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11466,None,,,,
+10591,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10591,None,,,,
+14744,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14744,None,,,,
+14985,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14985,Security,"""Allow to disable SSL client authentication on the management port""","""SSL""",Title,
+7522,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7522,None,,,,
+20051,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20051,None,,,,
+4333,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4333,None,,,,
+17293,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17293,None,,,,
+28204,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28204,None,,,,
+7085,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7085,None,,,,
+18675,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18675,None,,,,
+31574,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31574,None,,,,
+7655,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7655,None,,,,
+23459,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23459,None,,,,
+21912,Spring Boot,https://github.com/spring-projects/spring-boot/pull/21912,None,,,,
+23633,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23633,Robustness,"""Add a FailureAnalyzer for ConfigDataNotFoundException""",,Title,
+3224,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3224,None,,,,
+30627,Spring Boot,https://github.com/spring-projects/spring-boot/pull/30627,None,,,,
+11817,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11817,None,,,,
+10612,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10612,None,,,,
+24106,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24106,None,,,,
+17653,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17653,None,,,,
+27091,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27091,None,,,,
+14173,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14173,None,,,,
+654,Spring Boot,https://github.com/spring-projects/spring-boot/pull/654,None,,,,
+16933,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16933,None,,,,
+18612,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18612,None,,,,
+12272,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12272,Robustness,"""UnsatisfiedDependencyException with a datasource proxy ...""","""UnsatisfiedDependencyException""",Title,
+11369,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11369,None,,,,
+22646,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22646,None,,,,
+19902,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19902,None,,,,
+16069,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16069,None,,,,
+11121,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11121,None,,,,
+96,Spring Boot,https://github.com/spring-projects/spring-boot/pull/96,None,,,,
+670,Spring Boot,https://github.com/spring-projects/spring-boot/pull/670,Robustness,The PREFIX_ERROR_CODE format creates errors codes like:,error code,Discussion,"Considerei pensando naquela questão dos sub-requisitos de robustez, visto que parte da discussão foi sobre como isso afeta a formatação de mensagens de erro."
+18249,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18249,None,,,,
+31442,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31442,None,,,,
+13707,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13707,Maintainability,Callers for RequestMatcherAssert.doesNotMatch() have been updated to align with RequestMatcherAssert.matches() in fddc9e9 but its signature itself hasn't been updated. This PR updates its parameter order to align with its callers.,align,Description,
+3926,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3926,None,,,,
+17330,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17330,None,,,,
+7737,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7737,Maintainability,Documentation improvement for Cassandra Setup,documentation improvement,Title,
+6352,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6352,None,,,,
+28767,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28767,Robustness,Warning that DefaultClientResources was not shutdown properly when using Lettuce with Actuator,warning,Title,
+6459,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6459,None,,,,
+15163,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15163,Security,,,Discussion,
+22209,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22209,None,,,,
+11158,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11158,None,,,,
+566,Spring Boot,https://github.com/spring-projects/spring-boot/pull/566,Maintainability,Security Documentation Cleanup,cleanup,Title,
+25621,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25621,Maintainability,Document how to configure Maven's Failsafe plugin when not using spring-boot-starter-parent,Document,Title,
+27661,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27661,Performance,"this PR changes the checks for Groovy closures in BeanDefinitionLoader to a precompiled Pattern. It doesn't matter really from a performance perspective, because it's only called once in standard Boot applications. But in theory it could be called more often and then it saves the repeated pattern compilation overhead. Still very minor, so feel free to decline.",performance,Description,
+27755,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27755,Maintainability,Document how to parameterize output directory for REST Docs with WebTestClient,document,Title,
+1181,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1181,None,,,,
+26813,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26813,None,,,,
+23753,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23753,None,,,,
+1732,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1732,Security,Support for different authentication database,authentication,Title,
+17444,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17444,None,,,,
+12672,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12672,None,,,,
+13453,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13453,None,,,,
+11120,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11120,Maintainability,Improve extension of Neo4jHealthIndicator,improve + extension,Title,
+26713,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26713,None,,,,
+6154,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6154,None,,,,
+20824,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20824,None,,,,
+391,Spring Boot,https://github.com/spring-projects/spring-boot/pull/391,None,,,,
+17488,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17488,None,,,,
+20857,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20857,Maintainability,Harmonize naming of Elasticsearch auto-configuration classes,harmozine + naming,Title,
+7166,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7166,None,,,,
+19523,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19523,None,,,,
+20806,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20806,None,,,,
+2867,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2867,None,,,,
+234,Spring Boot,https://github.com/spring-projects/spring-boot/pull/234,None,,,,
+19057,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19057,Maintainability,remove incorrect Javadoc part,remove + incorrect + javadoc,Description,
+14653,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14653,Maintainability,"Changed builder methods in RestTemplateBuilder to use an overridable factory method to facilitate creation of subclasses.
+Previously, a subclass of RestTemplateBuilder would no longer be used if a non-overriden builder method was used.",facilitate + creation,Description,
+11751,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11751,None,,,,
+1596,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1596,None,,,,
+7596,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7596,None,,,,
+16322,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16322,None,,,,
+10322,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10322,None,,,,
+19327,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19327,None,,,,
+9989,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9989,None,,,,
+2252,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2252,None,,,,
+19581,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19581,None,,,,
+6224,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6224,None,,,,
+14043,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14043,None,,,,
+3254,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3254,None,,,,
+29085,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29085,None,,,,
+23008,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23008,None,,,,
+11182,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11182,None,,,,
+13446,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13446,None,,,,
+9455,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9455,None,,,,
+14152,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14152,None,,,,
+19817,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19817,None,,,,
+8474,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8474,None,,,,
+3032,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3032,None,,,,
+2799,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2799,None,,,,
+1545,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1545,Security,Added store type and store provider properties to ssl config,ssl,Title,
+14499,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14499,None,,,,
+12324,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12324,Maintainability,Improve docs on custom metrics,improve + docs,,
+20747,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20747,Security,use the applications rest template for the autoconfigured jwks receiver,jwks,Title,
+79,Spring Boot,https://github.com/spring-projects/spring-boot/pull/79,None,,,,
+22919,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22919,None,,,,
+3384,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3384,None,,,,
+22258,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22258,None,,,,
+5512,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5512,None,,,,
+31140,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31140,None,,,,
+22736,Spring Boot,https://github.com/spring-projects/spring-boot/pull/22736,None,,,,
+29201,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29201,None,,,,
+8429,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8429,None,,,,
+12135,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12135,None,,,,
+11108,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11108,None,,,,
+2266,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2266,None,,,,
+2779,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2779,Maintainability,Document MultipartProperties,document,Title,
+2922,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2922,Security,Sanitize all properties from specific PropertySources,sanitize,Title,
+16719,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16719,None,,,,
+29736,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29736,None,,,,
+781,Spring Boot,https://github.com/spring-projects/spring-boot/pull/781,None,,,,
+20596,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20596,None,,,,
+3848,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3848,None,,,,
+31713,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31713,None,,,,
+1748,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1748,None,,,,
+12202,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12202,None,,,,
+5158,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5158,None,,,,
+17805,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17805,None,,,,
+2913,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2913,None,,,,
+15478,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15478,None,,,,
+6876,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6876,Security,sanitize by default a key containing uri or url,,,
+30186,Spring Boot,https://github.com/spring-projects/spring-boot/pull/30186,None,,,,
+19901,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19901,Robustness,Spring Webflux ignores message of custom exception when annotated with @ResponseStatus,message + exception,Title,
+15965,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15965,None,,,,
+10514,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10514,Maintainability,"In mi opinion, this is a very long method, with some if-else, what make easy to loose the track. Might it be separated in meaningful methods what make the method more readable? What do you think?","long method, readable",Discussion,
+19863,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19863,None,,,,
+15554,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15554,None,,,,
+336,Spring Boot,https://github.com/spring-projects/spring-boot/pull/336,None,,,,
+3122,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3122,None,,,,
+19171,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19171,None,,,,
+7608,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7608,None,,,,
+10538,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10538,None,,,,
+25817,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25817,None,,,,
+8818,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8818,None,,,,
+10309,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10309,None,,,,
+8157,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8157,None,,,,
+7262,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7262,Robustness,"Currently, validation errors manifest as unhandled javax.validation.ConstraintViolationException's and end up being returned as nondescript HTTP 500 errors.
+
+Spring validation (which includes JSR-303) should be handled on beforeCreate/beforeSave so validation errors get handled by org.springframework.data.rest.webmvc.RepositoryRestExceptionHandler resulting in HTTP 400 errors with helpful descriptive bodies.","errors, unhandled",Description,
+5289,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5289,None,,,,
+5500,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5500,None,,,,
+10152,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10152,None,,,,
+5026,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5026,None,,,,
+26145,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26145,None,,,,
+7120,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7120,None,,,,
+25,Spring Boot,https://github.com/spring-projects/spring-boot/pull/25,None,,,,
+15653,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15653,None,,,,
+6648,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6648,None,,,,
+20390,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20390,None,,,,
+14486,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14486,None,,,,
+20384,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20384,None,,,,
+8475,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8475,None,,,,
+5773,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5773,None,,,,
+7739,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7739,None,,,,
+17,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17,None,,,,
+17389,Spring Boot,https://github.com/spring-projects/spring-boot/pull/17389,None,,,,
+18702,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18702,None,,,,
+15006,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15006,Robustness,"""Added the failure analyzer for StrategySelectionException. Hibernate is throwing StrategySelectionException for the missing dialect value.""","throwing, failure",Description,
+5806,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5806,None,,,,
+28668,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28668,None,,,,
+26085,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26085,None,,,,
+16047,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16047,None,,,,
+13582,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13582,None,,,,
+10225,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10225,None,,,,
+16947,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16947,None,,,,
+10033,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10033,None,,,,
+27105,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27105,None,,,,
+31242,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31242,None,,,,
+5641,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5641,None,,,,
+6040,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6040,None,,,,
+24636,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24636,None,,,,
+31037,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31037,None,,,,
+1770,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1770,None,,,,
+11815,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11815,None,,,,
+23502,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23502,None,,,,
+11779,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11779,None,,,,
+6304,Spring Boot,https://github.com/spring-projects/spring-boot/pull/6304,None,,,,
+31676,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31676,None,,,,
+29499,Spring Boot,https://github.com/spring-projects/spring-boot/pull/29499,None,,,,
+9002,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9002,None,,,,
+14291,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14291,None,,,,
+24470,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24470,None,,,,
+10537,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10537,None,,,,
+3706,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3706,None,,,,
+14707,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14707,None,,,,
+20192,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20192,None,,,,
+7234,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7234,None,,,,
+4454,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4454,None,,,,
+11294,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11294,None,,,,
+12150,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12150,None,,,,
+28526,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28526,None,,,,
+4311,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4311,None,,,,
+7299,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7299,None,,,,
+16717,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16717,Performance,"""Optimize CacheKey handling in SpringIterableConfigurationPropertySource""",optimize,Title,
+19101,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19101,None,,,,
+371,Spring Boot,https://github.com/spring-projects/spring-boot/pull/371,None,,,,
+523,Spring Boot,https://github.com/spring-projects/spring-boot/pull/523,None,,,,
+13870,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13870,None,,,,
+18962,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18962,None,,,,
+9970,Spring Boot,https://github.com/spring-projects/spring-boot/pull/9970,None,,,,
+16213,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16213,None,,,,
+14496,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14496,None,,,,
+7403,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7403,None,,,,
+20660,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20660,None,,,,
+4319,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4319,None,,,,
+4573,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4573,None,,,,
+30776,Spring Boot,https://github.com/spring-projects/spring-boot/pull/30776,None,,,,
+12217,Spring Boot,https://github.com/spring-projects/spring-boot/pull/12217,None,,,,
+18536,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18536,None,,,,
+11624,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11624,None,,,,
+27366,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27366,None,,,,
+24241,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24241,None,,,,
+15943,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15943,None,,,,
+27310,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27310,None,,,,
+1492,Spring Boot,https://github.com/spring-projects/spring-boot/pull/1492,None,,,,
+20704,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20704,Maintainability,"""Fix typos"", ""this PR fixes a couple of typos. I should note that the particular sentence in spring-boot-features still doesn't make a lot of sense to me even after the fix, but as I'm not a native speaker I wasn't sure if it might be correct.""",typos,"Title, description",
+5832,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5832,None,,,,
+16065,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16065,None,,,,
+13033,Spring Boot,https://github.com/spring-projects/spring-boot/pull/13033,None,,,,
+11128,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11128,Maintainability,"""replaced explicit null-checks by @NonNull for target method parameters"", ""less code (it's not necessary to write Assert.notNull())
+better contract definition - it's immediately clear that particular method parameter should not be null""","replaced, null-checks, non-null, assert","Description, comments",
+3917,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3917,None,,,,
+14886,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14886,None,,,,
+15836,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15836,None,,,,
+10959,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10959,None,,,,
+20755,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20755,Performance,"""Improve Binder performance slightly"", ""I'm currently trying to improve the startup of a medium sized app and found a couple of minor optimization opportunities in the Binder logic:"", ""Applying this patch shows me the following results for the initializr benchmarks we used in the past already:""","improve, performance, optimization, benchmark","Title, description",
+20346,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20346,None,,,,
+31459,Spring Boot,https://github.com/spring-projects/spring-boot/pull/31459,None,,,,
+28464,Spring Boot,https://github.com/spring-projects/spring-boot/pull/28464,None,,,,
+24160,Spring Boot,https://github.com/spring-projects/spring-boot/pull/24160,None,,,,
+10921,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10921,None,,,,
+23215,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23215,None,,,,
+18718,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18718,None,,,,
+7552,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7552,None,,,,
+16889,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16889,None,,,,
+5311,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5311,None,,,,
+7526,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7526,None,,,,
+20537,Spring Boot,https://github.com/spring-projects/spring-boot/pull/20537,None,,,,
+472,Spring Boot,https://github.com/spring-projects/spring-boot/pull/472,None,,,,
+15841,Spring Boot,https://github.com/spring-projects/spring-boot/pull/15841,None,,,,
+21658,Spring Boot,https://github.com/spring-projects/spring-boot/pull/21658,None,,,,
+30356,Spring Boot,https://github.com/spring-projects/spring-boot/pull/30356,None,,,,
+4495,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4495,None,,,,
+26200,Spring Boot,https://github.com/spring-projects/spring-boot/pull/26200,None,,,,
+19008,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19008,None,,,,
+27737,Spring Boot,https://github.com/spring-projects/spring-boot/pull/27737,Maintainability,"""Only link to the two alternative formats from each format of the reference documentation"", ""This PR's mixing improvements to the links to the other forms of the documentation with some general editing of the multi-page documentation's index.""","documentation, improvement, editing","Title, comments",
+4500,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4500,None,,,,
+11809,Spring Boot,https://github.com/spring-projects/spring-boot/pull/11809,None,,,,
+14580,Spring Boot,https://github.com/spring-projects/spring-boot/pull/14580,None,,,,
+8215,Spring Boot,https://github.com/spring-projects/spring-boot/pull/8215,None,,,,
+19953,Spring Boot,https://github.com/spring-projects/spring-boot/pull/19953,None,,,,
+4783,Spring Boot,https://github.com/spring-projects/spring-boot/pull/4783,None,,,,
+2602,Spring Boot,https://github.com/spring-projects/spring-boot/pull/2602,None,,,,
+10077,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10077,None,,,,
+7603,Spring Boot,https://github.com/spring-projects/spring-boot/pull/7603,None,,,,
+3146,Spring Boot,https://github.com/spring-projects/spring-boot/pull/3146,None,,,,
+5808,Spring Boot,https://github.com/spring-projects/spring-boot/pull/5808,None,,,,
+10045,Spring Boot,https://github.com/spring-projects/spring-boot/pull/10045,None,,,,
+16850,Spring Boot,https://github.com/spring-projects/spring-boot/pull/16850,None,,,,
+23058,Spring Boot,https://github.com/spring-projects/spring-boot/pull/23058,None,,,,
+18838,Spring Boot,https://github.com/spring-projects/spring-boot/pull/18838,None,,,,
+665,Spring Framework,https://github.com/spring-projects/spring-framework/pull/665,None,-,-,-,Deleted unused import
+26995,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26995,None,-,-,-,"Add missing "")"" in Kotlin example"
+1309,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1309,None,-,-,-,Fix missing uriVariables
+22637,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22637,None,-,-,-,URL Cleanup
+28775,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28775,None,-,-,-,Bug when dealing with repeated annotations
+692,Spring Framework,https://github.com/spring-projects/spring-framework/pull/692,None,-,-,-,JIRA
+25621,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25621,"Performance, Robustness","Performance, Robustness: ""SocketUtils ServerSocket、DatagramSocket use try-with-resource""","Performance: ""sockets""
+Robustness: ""try""","Title, Discussion",-
+31,Spring Framework,https://github.com/spring-projects/spring-framework/pull/31,None,-,-,-,Run sql scripts before each test method
+1424,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1424,Robustness,"""Logging exception in ExceptionWebSocketHandlerDecorator"",
+""I was having some hibernate exception in the back, but the exception is not getting printed/logged"",
+""exception handling is there but logging is missing.""","""exception"", ""handling, ""logging""","Title, Discussion",-
+1498,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1498,None,-,-,-,Support groovy markup
+712,Spring Framework,https://github.com/spring-projects/spring-framework/pull/712,None,-,-,-,JIRA
+1035,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1035,Maintainability,"""fix WebRequest.checkNotModified docs""","""docs""",Title,type: documentation
+664,Spring Framework,https://github.com/spring-projects/spring-framework/pull/664,None,-,-,-,Merge
+24617,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24617,Performance,"""avoids some unnecessary sorting overhead""","""overhead""","Title, Description",-
+163,Spring Framework,https://github.com/spring-projects/spring-framework/pull/163,None,-,-,-,Allow SpEL reserved words in type package names
+395,Spring Framework,https://github.com/spring-projects/spring-framework/pull/395,Maintainability,"""Migrate documentation to asciidoctor""","""documentation""","Title, Description",-
+1691,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1691,Maintainability,"""Corrected Javadoc""","""javadoc""","Title, Description",-
+247,Spring Framework,https://github.com/spring-projects/spring-framework/pull/247,Maintainability,"""Where appropriate, updated Javadoc to refer to the""","""javadoc""",Description,-
+25612,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25612,None,-,-,-,Merge
+1277,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1277,Security,"""to use a different authentication method""","""authentication""",Description,-
+26353,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26353,None,-,-,-,Merge
+312,Spring Framework,https://github.com/spring-projects/spring-framework/pull/312,"Robustness, Performance","Robustness, Performance: ""If you throw an exception when getBody is called, then how will the body be flushed to the stream?""","Robustness: ""exception""
+Performance: ""stream""",Review,-
+1861,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1861,None,-,-,-,Propagate read-only status
+27482,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27482,Maintainability,"""Feat/fix java doc""","""javadoc""","Title, Description",
+598,Spring Framework,https://github.com/spring-projects/spring-framework/pull/598,None,-,-,-,Add filtered properties
+53,Spring Framework,https://github.com/spring-projects/spring-framework/pull/53,Maintainability,"""This allows SpEL to support this syntax kind of syntax""","""syntax""","Title, Discussion",-
+1597,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1597,None,-,-,-,Change getter method
+23965,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23965,None,-,-,-,Avoid store all beanName
+107,Spring Framework,https://github.com/spring-projects/spring-framework/pull/107,None,-,-,-,JIRA
+2026,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2026,Maintainability,"""The name of the parameter is misleading"",
+""This parameter is confusing to developers who read""","""misleading"", ""read""",,-
+2069,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2069,"Maintainability, Performance","Maintainability: ""I'll keep readability""
+Performance: ""Extract Method::getParameterTypes out of the loop where possible""","Maintainability: ""readability""
+Performance: ""loop""","Title, Discussion",-
+25897,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25897,Performance,""" Is it Tomcat opening such a stream?""","""stream""",Discussion,
+25594,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25594,Performance,"""Optimize ObjectUtils.nullSafeHashCode() implementations""","""optimize""",Title,-
+28890,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28890,None,-,-,-,Fix typo
+152,Spring Framework,https://github.com/spring-projects/spring-framework/pull/152,None,-,-,-,-
+26822,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26822,None,-,-,-,-
+22665,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22665,Maintainability,URL Cleanup,"""cleanup""","Title, Description",-
+1462,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1462,None,-,-,-,-
+571,Spring Framework,https://github.com/spring-projects/spring-framework/pull/571,Maintainability,"""I wonder whether we should shorten""","""shorten""",Discussion,-
+1030,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1030,None,-,-,-,Fix typo
+26929,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26929,Performance,"""Optimize some scenes which need not proxy""","""optimize""",Title,-
+28746,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28746,Robustness,"""will throw an InvalidPathException on""","""thrown""",Discussion,-
+1147,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1147,Performance,"""Improve performance when parsing MediaTypes""","""performance""",Title,-
+200,Spring Framework,https://github.com/spring-projects/spring-framework/pull/200,None,-,-,-,-
+472,Spring Framework,https://github.com/spring-projects/spring-framework/pull/472,None,-,-,-,-
+22337,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22337,None,-,-,-,-
+27229,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27229,Robustness,"""and raising an exception later""","""exception""",Discussion,-
+382,Spring Framework,https://github.com/spring-projects/spring-framework/pull/382,None,-,-,-,-
+800,Spring Framework,https://github.com/spring-projects/spring-framework/pull/800,Performance,"""Support OkHttp as (Async)ClientHttpRequestFactory""","""async""","Title, Description",-
+1806,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1806,None,-,-,-,Fix typo
+871,Spring Framework,https://github.com/spring-projects/spring-framework/pull/871,Performance,"""Read large data using InputStreamResource""","""large""",Description,-
+1933,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1933,None,-,-,-,Fix unusable assertions
+23555,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23555,None,-,-,-,Fix typo
+656,Spring Framework,https://github.com/spring-projects/spring-framework/pull/656,None,-,-,-,-
+23715,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23715,None,-,-,-,-
+23198,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23198,None,-,-,-,Transaction
+24903,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24903,Maintainability,"""replaced deprecated invocation with recommended method""","""deprecated""",Discussion,-
+268,Spring Framework,https://github.com/spring-projects/spring-framework/pull/268,None,-,-,-,-
+24768,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24768,Performance,"""resulting in severe performance degradation""","""performance""",Description,-
+25137,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25137,None,-,-,-,Fix URI pattern
+1917,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1917,None,-,-,-,-
+24674,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24674,Performance,"""Improve performance of StringUtils"", ""I noticed an optimization opportunity""","""performance"", ""optimization""","Title, Description",-
+26114,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26114,None,-,-,-,-
+25058,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25058,Performance,"""Include timeout unit in shutdown failure logging""","""timeout""",Title,-
+25487,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25487,Maintainability,"""would be used in other Comparators, we should make this as singleton design pattern""","""pattern""",Description,-
+1183,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1183,None,-,-,-,Fix Typo
+26075,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26075,Performance,"""Avoid full singleton lock""","""lock""",Title,-
+27799,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27799,None,-,-,-,Polish
+625,Spring Framework,https://github.com/spring-projects/spring-framework/pull/625,None,-,-,-,Clean up
+773,Spring Framework,https://github.com/spring-projects/spring-framework/pull/773,Performance,"""Performance Optimization on getResultSetValue"",
+""found significant lack of performance "",
+""benchmark"", 
+""almost as fast as a custom""","""performance"", ""benchmark"", ""fast""","Title, Description",-
+44,Spring Framework,https://github.com/spring-projects/spring-framework/pull/44,None,-,-,-,Fix Typo
+419,Spring Framework,https://github.com/spring-projects/spring-framework/pull/419,Robustness,"""If the exception is not caught, the app cannot be deployed into""","""exception"", ""caught""","Title, Description",-
+1889,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1889,Security,"""even though they have a valid session""","""session""",Description,-
+24105,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24105,Performance,"""time improvements of the caching without some additional setup""","""time improvement""",Description,-
+28355,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28355,None,-,-,-,-
+25452,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25452,None,-,-,-,-
+1874,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1874,None,-,-,-,Fix Typo
+27604,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27604,None,,,,"Todas essas mudanças que são claramente enhancement, estou desconsiderando como NFR."
+895,Spring Framework,https://github.com/spring-projects/spring-framework/pull/895,None,,,,"Todas essas mudanças que são claramente enhancement, estou desconsiderando como NFR."
+293,Spring Framework,https://github.com/spring-projects/spring-framework/pull/293,None,,,,"Todas essas mudanças que são claramente enhancement, estou desconsiderando como NFR."
+28783,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28783,Performance,"""prevent some lock competition""","""lock"", ""syncronization""",Description,Os detalhes mais importantes estão na issue referenciada.
+25311,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25311,None,,,,"Todas essas mudanças que são claramente enhancement, estou desconsiderando como NFR."
+518,Spring Framework,https://github.com/spring-projects/spring-framework/pull/518,Maintainability,"""clean up compiler warnings""","""clean up"",""warnings""",Description,
+1002,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1002,None,,,,Sem informação suficiente
+1378,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1378,None,,,,Sem informação suficiente
+1972,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1972,None,,,,Correção de typo
+23401,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23401,None,,,,Correção de typo
+1449,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1449,Maintainability,"""Simplify the code""",,Description,Os detalhes mais importantes estão na issue referenciada.
+24250,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24250,None,,,,
+1792,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1792,None,,,,
+24476,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24476,None,,,,
+241,Spring Framework,https://github.com/spring-projects/spring-framework/pull/241,None,,,,
+1061,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1061,Robustness,"""An error occurs while binding request parameters ""","""Error"", ""StringIndexOutOfBoundsException""","Title, Description",
+589,Spring Framework,https://github.com/spring-projects/spring-framework/pull/589,None,,,,"Todas essas mudanças que são claramente enhancement, estou desconsiderando como NFR."
+2023,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2023,None,,,,
+715,Spring Framework,https://github.com/spring-projects/spring-framework/pull/715,Robustness,"""...other cases were not properly managed, throwing exceptions for valid HTTP responses.""","""throwing"", ""exceptions""",Description,
+26294,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26294,None,,,,Apenas uma inconformidade.
+1380,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1380,None,,,,
+885,Spring Framework,https://github.com/spring-projects/spring-framework/pull/885,None,,,,
+23469,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23469,None,,,,
+24492,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24492,Maintainability,"""Use try-with-resource instead of try-finally to close stream""",,"Title, Description",
+22867,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22867,None,,,,
+88,Spring Framework,https://github.com/spring-projects/spring-framework/pull/88,None,,,,
+24920,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24920,None,,,,
+28315,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28315,Maintainability,"""Introduce ... method"", ""Very common""",,Description,
+1825,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1825,Robustness,"""works as expected and does't throw exception""","""throw exception""",Description,
+28375,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28375,None,,,,
+214,Spring Framework,https://github.com/spring-projects/spring-framework/pull/214,None,,,,
+323,Spring Framework,https://github.com/spring-projects/spring-framework/pull/323,None,,,,Sem informação suficiente.
+25351,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25351,None,,,,Apenas correção na documentação.
+41,Spring Framework,https://github.com/spring-projects/spring-framework/pull/41,None,,,,
+22647,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22647,None,,,,
+26816,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26816,None,,,,
+24926,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24926,Maintainability,"""spring-test HtmlUnit does not recognize files for multipart uploading""","""spring-test""",Description,Os detalhes mais importantes estão na issue referenciada.
+1071,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1071,None,,,,Sem informação suficiente.
+744,Spring Framework,https://github.com/spring-projects/spring-framework/pull/744,Maintainability,"""a simple refactor to extract the application of default configuration to into a separate method""","""extract"", ""refactoring""",Description,
+27614,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27614,None,,,,
+27565,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27565,Maintainability,"""This should save a few cycles and is also less code in some cases because we do not need to catch UnsupportedEncodingExceptions""","""less code"", ""simplification""",Description,Os detalhes mais importantes estão na issue referenciada.
+23981,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23981,None,,,,Sem informação suficiente.
+24774,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24774,None,,,,Sem informação suficiente.
+1296,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1296,Robustness,"""Exception if no RequestDataValueProcessor is present""","""exception""",Title,
+584,Spring Framework,https://github.com/spring-projects/spring-framework/pull/584,None,,,,
+835,Spring Framework,https://github.com/spring-projects/spring-framework/pull/835,None,,,,
+738,Spring Framework,https://github.com/spring-projects/spring-framework/pull/738,None,,,,Correção de typo
+1644,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1644,None,,,,
+26197,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26197,None,,,,
+390,Spring Framework,https://github.com/spring-projects/spring-framework/pull/390,None,,,,
+24377,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24377,None,,,,
+28338,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28338,None,,,,Sem informação suficiente.
+896,Spring Framework,https://github.com/spring-projects/spring-framework/pull/896,None,,,,
+24236,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24236,None,,,,
+1879,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1879,None,,,,
+467,Spring Framework,https://github.com/spring-projects/spring-framework/pull/467,None,,,,
+26374,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26374,None,,,,
+26678,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26678,None,,,,
+1361,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1361,None,,,,
+1368,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1368,Maintainability,"""Use JDK8 hashCode() for primitives in ObjectUtils""","""Deprecated""",Description,
+22809,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22809,None,,,,
+1579,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1579,Maintainability,"""otherwise it's easy to accidentally get 'localhost' even if you set a Host: header""",,Description,
+26952,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26952,None,,,,
+22677,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22677,None,,,,Apenas correção na documentação.
+1511,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1511,None,,,,Apenas correção na documentação.
+24155,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24155,None,,,,Apenas correção na documentação.
+1293,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1293,None,,,,"Parece relacionada a performance, mas faltam detalhes do autor."
+1798,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1798,None,,,,
+23967,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23967,None,,,,
+27290,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27290,Maintainability,"""A new method has been added, named hasAnyContributors that returns the value expected of its name.""","""Deprecated""",Description,
+1135,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1135,None,,,,Sem informação suficiente.
+1288,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1288,None,,,,
+1453,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1453,Maintainability,"""use lambda to refact the code""","""Refact""",Description,"Apesar de ser relacionada a refatoração, foi rejeitada."
+28217,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28217,None,,,,
+22517,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22517,None,,,,Apenas correção na documentação.
+22589,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22589,None,,,,Correção de typo
+1011,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1011,None,,,,
+27997,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27997,Maintainability,Polish codes in spring-webmvc,Polish,Title,"Detalhe, numa das mensagens dos commits associados no PR tem uma menção explícita à refatoração, o que poderia ajudar mais na identificação que as keywords que eu indiquei."
+645,Spring Framework,https://github.com/spring-projects/spring-framework/pull/645,None,-,-,-,-
+24419,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24419,Maintainability,Simplify UrlFileNameViewController#getViewNameForUrlPath(),Simplify,Title,-
+1427,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1427,Robustness,Is there not possible NPE if subs.get(sessionId) returns null? How about:,NPE,Discussion,
+1977,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1977,Performance,"Optimize HTTP headers parsing
+
+Several benchmarks underlined a few hotspots for CPU and GC pressure in
+the Spring Framework codebase:
+
+The media
+type parsing operation is expensive
+
+This commit improves this by caching the parsed MediaType for the
+""Content-Type"" request header in the ReadOnlyHttpHeaders class. This change
+is available for both Spring MVC and Spring WebFlux.","Optimize, CPU, benchmarks, hotspots, GC pressure, expensive, caching","Title, Description",-
+25899,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25899,None,-,-,-,-
+28677,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28677,Robustness,Fix DataSourceUtils inconsistent exception handling,exception,Title,-
+1999,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1999,Robustness,fix exception chain loss,exception,Title,-
+25936,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25936,None,-,-,-,-
+28426,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28426,None,-,-,-,-
+313,Spring Framework,https://github.com/spring-projects/spring-framework/pull/313,Maintainability,removed unused dependency from spring-instrument,unused dependency,Title,-
+1349,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1349,Maintainability,Making easier for understanding example of GenericApplicationContext by changing undeclared object ctx to context.,easier + understand,Description,-
+1910,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1910,None,-,-,-,-
+1404,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1404,None,-,-,-,-
+1581,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1581,None,-,-,-,-
+958,Spring Framework,https://github.com/spring-projects/spring-framework/pull/958,Performance,Speed up AntPathMatcher by doing prefix-match,speed up,Title,-
+27324,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27324,None,-,-,-,-
+23450,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23450,None,,,,
+1610,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1610,None,,,,
+960,Spring Framework,https://github.com/spring-projects/spring-framework/pull/960,None,,,,
+28472,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28472,None,,,,
+23142,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23142,None,,,,
+1584,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1584,None,,,,
+1228,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1228,None,,,,
+1213,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1213,None,,,,
+27862,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27862,None,,,,
+1410,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1410,None,,,,
+26773,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26773,Maintainability,Fix @Scope documentation in ref docs,fix documentation,Title,
+801,Spring Framework,https://github.com/spring-projects/spring-framework/pull/801,Robustness,"Trivial change: use Long.parseLong instead of Integer.parseInt because the assigned fields are of type long, not int. The current code is causing errors on startup when I try to use a value too big for an int.",errors,Description,
+869,Spring Framework,https://github.com/spring-projects/spring-framework/pull/869,Robustness,Prevent a IllegalStateException in BindStatus at the time of without property access,exception,Title,
+636,Spring Framework,https://github.com/spring-projects/spring-framework/pull/636,Security,Add Authentication to Security Context Holder,"authentication, security",Title,
+1826,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1826,None,,,,
+124,Spring Framework,https://github.com/spring-projects/spring-framework/pull/124,None,,,,
+540,Spring Framework,https://github.com/spring-projects/spring-framework/pull/540,None,,,,
+28453,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28453,None,,,,
+22792,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22792,Performance,Some trivial optimization in method populateBean(),optimization,Title,
+1003,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1003,Robustness,"Profiling has shown that we have a lot of caught
+SAXNotRecognizedException during normal program execution.",exception,Description,
+28010,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28010,None,,,,
+26030,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26030,None,,,,
+253,Spring Framework,https://github.com/spring-projects/spring-framework/pull/253,Maintainability,Document @Bean 'lite' mode vs @Configuration,document,Title,
+27127,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27127,Maintainability,Avoid duplicated code by using map,duplicated code,Title,
+27726,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27726,Maintainability,Clarify that interface-level cache annotations work for target-class proxies as well,clarify,Title,
+27752,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27752,Maintainability,Avoids duplicating the logic,duplicating + logic,Description,
+26708,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26708,Maintainability,This PR fixes polishes trivial stuff.,polish,"Title, Description",
+642,Spring Framework,https://github.com/spring-projects/spring-framework/pull/642,None,,,,
+22993,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22993,Maintainability,"Update webflux.adoc
+
+Correction of example with @RequestBody and BindingResult which dosn't work.",correction + doc,"Title, Description",
+1286,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1286,None,,,,
+24696,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24696,Maintainability,Improve Javadoc in InstantiationAwareBeanPostProcessor,improve,Title,
+25398,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25398,None,,,,
+27755,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27755,Maintainability,Avoids duplicating the logic,duplicating + logic,Description,
+1648,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1648,None,,,,
+1541,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1541,None,,,,
+23835,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23835,None,,,,
+1688,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1688,None,,,,
+2036,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2036,None,,,,
+1325,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1325,None,,,,
+1787,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1787,None,,,,
+28744,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28744,Maintainability,Polish,Polish,Title,
+23274,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23274,None,,,,
+1138,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1138,Performance,Improve performance of assertion in StompSubProtocolHandler.convertCo,performance,Title,
+25078,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25078,None,,,,
+25357,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25357,None,,,,
+310,Spring Framework,https://github.com/spring-projects/spring-framework/pull/310,None,,,,
+455,Spring Framework,https://github.com/spring-projects/spring-framework/pull/455,None,,,,
+1572,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1572,None,,,,
+1627,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1627,None,,,,
+1905,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1905,None,,,,
+23780,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23780,Maintainability,Polish HttpWebHandlerAdapter.handleUnresolvedError(),Polish,Title,
+26969,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26969,None,,,,
+962,Spring Framework,https://github.com/spring-projects/spring-framework/pull/962,None,,,,
+1034,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1034,None,,,,
+28795,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28795,None,,,,
+1995,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1995,None,,,,
+26684,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26684,Maintainability,Polish TestContextAnnotationsUtilsTests,Polish,Title,
+1963,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1963,None,,,,
+1022,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1022,None,,,,
+24651,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24651,Maintainability,Adding the ability to request a file's contents as a string for testing REST or WEBMVC allows for cleaner test classes and more readable code.,"cleaner, readable",Description,
+476,Spring Framework,https://github.com/spring-projects/spring-framework/pull/476,None,,,,
+24781,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24781,Maintainability,"""Fix typos and improve readability in Webflux documentation""","typos, readability, documentation",Title,
+405,Spring Framework,https://github.com/spring-projects/spring-framework/pull/405,None,,,,
+27912,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27912,None,,,,
+1235,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1235,None,,,,
+1534,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1534,None,,,,
+26323,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26323,None,,,,
+24815,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24815,Maintainability,"""Fix typo in webflux-cors.adoc""",typo,Title,
+776,Spring Framework,https://github.com/spring-projects/spring-framework/pull/776,None,,,,
+25453,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25453,None,,,,
+1439,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1439,Performance,"""SPR-15602 - Optimize DefaultUserDestinationResolver.resolveDestination()""",optimize,Title,
+222,Spring Framework,https://github.com/spring-projects/spring-framework/pull/222,None,,,,
+24311,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24311,None,,,,
+71,Spring Framework,https://github.com/spring-projects/spring-framework/pull/71,Robustness,"""I have cloned the Spring Framework Git repository and tried to build branch 3.1.x from command line with Ant, then got the error above.
+ Environment: Ubuntu 12.04, Apache Ant (both versions 1.8.1 and 1.8.2 produce the same result), Java HotSpot(TM) 64-Bit Server VM (build 20.1-b02, mixed mode).""","error, build",Comment,
+1275,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1275,None,,,,
+24694,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24694,Performance,"""Reduce byte array allocations in StompEncoder"", ""The use of an okio.Buffer instead of an ByteArrayOutputStream will reduce
+the amount of allocated byte arrays by 50% to 66%."", In our case (because our stomp-headers are bigger than 128 byte), the current implementation allocates 3 byte arrays for each stomp message we send:
+
+The initial internal buffer of the ByteArrayOutputStream (initialized as 128 + payload.length) (20.0%, 14414 samples)
+The grown internal buffer of the ByteArrayOutputStream, which is needed because we write more than payload.length + 128 bytes. (22.5%, 16233 samples)
+The result array which is created as subsequence copy of the internal buffer (34.9%, 25101 samples)
+""","buffer, reduce, payload, byte, encoder, %, length, allocate","Title, description, comment",
+25051,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25051,Maintainability,"""Fix typo in RmiSupportTests""",typo,Title,
+619,Spring Framework,https://github.com/spring-projects/spring-framework/pull/619,Robustness,"""SPR-12068 Added exception tracking to JamonPerformanceMonitorInterceptor"", ""The property below 'trackExceptions' controls this behaviour.""","exception, behavior, interceptor","Title, Comment",
+366,Spring Framework,https://github.com/spring-projects/spring-framework/pull/366,None,,,,
+628,Spring Framework,https://github.com/spring-projects/spring-framework/pull/628,None,,,,
+1652,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1652,None,,,,
+1060,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1060,None,,,,
+24437,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24437,None,,,,
+25298,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25298,None,,,,
+1873,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1873,Performance,"""improve performance of projection instantiation""","improve, performance",Title,
+22711,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22711,None,,,,
+649,Spring Framework,https://github.com/spring-projects/spring-framework/pull/649,None,,,,
+539,Spring Framework,https://github.com/spring-projects/spring-framework/pull/539,None,,,,
+769,Spring Framework,https://github.com/spring-projects/spring-framework/pull/769,None,,,,
+22515,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22515,Maintainability,"""URL Cleanup"", ""Fixed URLs""",cleanup,"Title, description",
+28401,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28401,None,,,,
+2022,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2022,None,,,,
+259,Spring Framework,https://github.com/spring-projects/spring-framework/pull/259,None,,,,
+22354,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22354,None,,,,
+1102,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1102,None,,,,
+1555,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1555,None,,,,
+1320,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1320,None,,,,
+495,Spring Framework,https://github.com/spring-projects/spring-framework/pull/495,None,,,,
+26674,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26674,None,,,,
+1037,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1037,None,,,,
+1094,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1094,None,,,,
+1251,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1251,None,,,,
+1864,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1864,None,,,,
+158,Spring Framework,https://github.com/spring-projects/spring-framework/pull/158,None,,,,
+25554,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25554,None,,,,
+1625,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1625,None,,,,
+27779,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27779,None,,,,
+68,Spring Framework,https://github.com/spring-projects/spring-framework/pull/68,None,,,,
+24864,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24864,None,,,,
+1539,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1539,None,,,,
+860,Spring Framework,https://github.com/spring-projects/spring-framework/pull/860,None,,,,
+27830,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27830,Maintainability,"""Improve tests and Javadoc on binding to a property of type javax.servlet.Part""","improve, tests, javadoc",Title,
+27468,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27468,None,,,,
+22523,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22523,Maintainability,"""URL Cleanup"", ""Fixed URLs""",cleanup,"Title, description",
+26340,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26340,None,,,,
+28014,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28014,None,,,,
+28652,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28652,None,,,,
+1190,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1190,None,,,,
+1106,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1106,None,,,,
+24682,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24682,Maintainability,"""Improve javadoc in RollbackRuleAttribute regarding nested classes"", ""Please introduce a test which demonstrates that an enclosing class would result in a positive match.""","improve, javadoc, test","Title, comment",
+529,Spring Framework,https://github.com/spring-projects/spring-framework/pull/529,None,,,,
+27466,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27466,Performance,"""Optimize header removal in ForwardedHeaderFilter"", ""The current implementation suggests that the request's headers are not
+expected to change. Hence, it's not necessary to copy them.
+Furthermore, it might be costly to do so if there are many headers.
+Instead, cache only the request's header names for method getHeaderNames.""","optimize, costly, cache","Title, description",
+22546,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22546,None,,,,
+1746,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1746,None,,,,
+26211,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26211,None,,,,
+749,Spring Framework,https://github.com/spring-projects/spring-framework/pull/749,None,,,,
+1804,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1804,None,,,,
+372,Spring Framework,https://github.com/spring-projects/spring-framework/pull/372,None,,,,
+26569,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26569,None,,,,
+505,Spring Framework,https://github.com/spring-projects/spring-framework/pull/505,None,,,,
+933,Spring Framework,https://github.com/spring-projects/spring-framework/pull/933,None,,,,
+24337,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24337,Robustness,"""Update throwable to SQLException"", ""To be as specific as possible in catching exceptions.
+As far as I can see, there is no problem.""","throwable, exception, catching","Title, description",
+25604,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25604,None,,,,
+3,Spring Framework,https://github.com/spring-projects/spring-framework/pull/3,None,,,,
+1504,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1504,None,,,,
+24746,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24746,None,,,,
+23582,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23582,None,,,,
+826,Spring Framework,https://github.com/spring-projects/spring-framework/pull/826,None,,,,
+2071,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2071,None,,,,
+22668,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22668,Security,This commit updates URLs to prefer the https protocol.,prefer the https protocol,description,
+26484,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26484,None,,,,
+1724,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1724,None,,,,
+28265,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28265,None,,,,
+1428,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1428,Robustness,"RestTemplate is missing ""Typed"" error handler
+
+The default error handler creates a String body from the output source. It would be nice if there were an alternative ""Typed"" Error handler that could use the same HttpMessageConverterExtractor to non-success states that handle JSON/XML responses.",error handler,"title, description",
+25463,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25463,None,,,,
+890,Spring Framework,https://github.com/spring-projects/spring-framework/pull/890,None,,,,
+1671,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1671,Robustness,source code*,"try, finally",source code,Texto da issue vago. Fui olhar no código fonte. Daí entendi que era robustez.
+530,Spring Framework,https://github.com/spring-projects/spring-framework/pull/530,None,,,,
+22593,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22593,None,,,,
+154,Spring Framework,https://github.com/spring-projects/spring-framework/pull/154,Robustness,"Chain exception cause on create failure
+
+Propogate root cause of exceptions thrown from createCollection
+and createMap.","chain exception, propagate root cause","title, description",
+159,Spring Framework,https://github.com/spring-projects/spring-framework/pull/159,None,,,,
+28853,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28853,None,,,,
+728,Spring Framework,https://github.com/spring-projects/spring-framework/pull/728,None,,,,
+1366,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1366,None,,,,
+705,Spring Framework,https://github.com/spring-projects/spring-framework/pull/705,Robustness,Lately I'm using http 422 Unprocessable Entity for returning validation errors. instead of a 400. It seems many public api's are changing to this (like github api).,returning validation errors,description,
+24266,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24266,None,,,,
+1356,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1356,None,,,,
+74,Spring Framework,https://github.com/spring-projects/spring-framework/pull/74,None,,,,
+26574,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26574,Robustness,"ClassLoader.getResource can throw IllegalArgumentException
+
+According to its javadoc, resolveURL should return null if not resolvable, so catch the IllegalArgumentException and return null.","throw, catch","title, description",
+1222,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1222,None,,,,
+1805,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1805,Performance,"SPR-16766 - Improve performance of StringUtils#trimWhitespace
+
+Cutting whitespaces once prevents calling System#arrayCopy on every deleted char. With using String#substring method it would be called just once.","performance, called just once","title, description",
+23341,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23341,Performance,What we specifically need is a way to predict the bean type in a way that's very fast to call during condition evaluation and doesn't cause any early initialization of any beans (including FactoryBeans).,early inititalization,description,Precisei olhar para uma issue citada (#23056)
+1435,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1435,None,,,,
+1813,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1813,None,,,,
+224,Spring Framework,https://github.com/spring-projects/spring-framework/pull/224,None,,,,
+24758,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24758,None,,,,
+24900,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24900,None,,,,
+568,Spring Framework,https://github.com/spring-projects/spring-framework/pull/568,Robustness,This commit adds a check for this exception and returns null in that case,adds a check for this exception,description,
+23053,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23053,None,,,,
+23176,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23176,None,,,,
+23458,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23458,Performance,What we specifically need is a way to predict the bean type in a way that's very fast to call during condition evaluation and doesn't cause any early initialization of any beans (including FactoryBeans).,early initialization,description,Precisei olhar para uma issue citada (#23056)
+24588,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24588,Robustness,"Thanks for the PR but none of the changed places are exposed to NullPointerException and the current checks are fine, even a little shorter, so we'll keep them as they are.","exposed to NullPointerException, checks",comment,
+751,Spring Framework,https://github.com/spring-projects/spring-framework/pull/751,None,,,,
+2015,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2015,None,,,,
+1929,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1929,None,,,,
+1448,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1448,None,,,,
+26779,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26779,None,,,,
+27015,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27015,None,,,,
+26575,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26575,None,,,,
+27417,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27417,None,,,,
+292,Spring Framework,https://github.com/spring-projects/spring-framework/pull/292,None,,,,
+22778,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22778,None,,,,
+28428,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28428,None,,,,
+28056,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28056,None,,,,
+133,Spring Framework,https://github.com/spring-projects/spring-framework/pull/133,None,,,,
+1620,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1620,None,,,,
+23345,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23345,Performance,"Introduce interface cache for proxied EntityManager and Query types.
+These caches prevent excessive object allocations","interface cache, prevent excessive object reallocations","title, description",
+1957,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1957,None,,,,
+27469,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27469,None,,,,
+22606,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22606,None,,,,
+1412,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1412,None,,,,
+1955,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1955,None,,,,
+841,Spring Framework,https://github.com/spring-projects/spring-framework/pull/841,None,,,,
+27536,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27536,None,,,,
+474,Spring Framework,https://github.com/spring-projects/spring-framework/pull/474,None,,,,
+591,Spring Framework,https://github.com/spring-projects/spring-framework/pull/591,None,,,,
+23729,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23729,None,,,,
+23506,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23506,Maintainability,This simplifies the ajc configuration by using the external io.freefair.aspectj gradle plugin.,simplifies the ajc configuration,Description,
+26752,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26752,None,,,,
+282,Spring Framework,https://github.com/spring-projects/spring-framework/pull/282,None,,,,
+23645,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23645,Maintainability,"Prior to this commit, customizing the extraction of RSocket metadata
+from frames would require developers to override the default
+MetadataExtractor while configuring RSocketStrategies.
+This touches on many infrastructure parts, whereas the goal is just to
+configure an extra metadata entry extractor using already configured
+codecs.",require developers overriding,Description,
+1173,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1173,None,,,,
+507,Spring Framework,https://github.com/spring-projects/spring-framework/pull/507,None,,,,
+1802,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1802,Robustness,Make sure the constructor of CacheControl being invoked only once.,invoked only once,description,
+1821,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1821,None,,,,
+1447,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1447,Maintainability,Refact iterator of Map with Java 8 forEach,refact,title,
+1936,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1936,Robustness,"More defensive about bad URLs 
+We can safely catch Throwable here without affecting the logic","defensive, catch","title, description",
+2024,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2024,Maintainability,"Uses Function.identity instead of n->n
+This PR just polishes DefaultServerResponseBuilder - it replaces all uses of","uses Function.identity instead of, polishes, replaces all uses","title, description",
+1405,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1405,Performance,Lazily initialize Environment in GenericFilterBean,Lazily inititalize,title,
+1108,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1108,None,,,,
+25540,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25540,None,,,,
+22571,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22571,None,,,,
+23290,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23290,None,,,,
+28113,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28113,Performance,Avoid multiple invocations of private lifecycle method,Avoid multiple invocations,,
+23914,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23914,Maintainability,"""The original map named earlyProxyReferences seems to stores the target object, not the proxy object.""",,Title,
+184,Spring Framework,https://github.com/spring-projects/spring-framework/pull/184,None,,,,
+25321,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25321,"Maintainability, Robustness","""I had an issue where System.currentTimeMillis() was a bad seed when a few tests were running in parallel.""","Bad seed, tests",Description,
+1244,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1244,None,,,,
+2002,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2002,None,,,,
+23066,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23066,None,,,,
+1800,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1800,None,,,,
+359,Spring Framework,https://github.com/spring-projects/spring-framework/pull/359,Robustness,"""Now the DispatcherServlet can be configured to throw a
+NoHandlerFoundException, when the throwExceptionIfNoHandlerFound
+property is set to ""true"".""",Throw,Description,
+24661,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24661,None,,,,
+1790,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1790,None,,,,
+22254,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22254,None,,,,
+28448,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28448,Maintainability,"""Update javadoc as type-level @Controller is now required""",Javadoc,Title,
+26383,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26383,None,,,,
+22728,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22728,Robustness,"""The use case is an error from the writeFunction, e.g. if Reactor Netty fails to flush the response status and the headers before consuming the cached item.""",Error,Review,
+1949,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1949,None,,,,
+1304,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1304,None,,,,
+26700,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26700,Robustness,"""If the ThreadPoolTaskExecutor is dynamically changed with an invalid value
+the state of the ThreadPoolTaskExecutor does no longer correctly represent
+the state of the underlying ThreadPoolExecutor""",Invalid value,Description,
+929,Spring Framework,https://github.com/spring-projects/spring-framework/pull/929,"Maintainability, Robustness","""SPR-13752: MockHttpServletResponse.setIntHeader does not support 'Content-Length' header""","Robustness: Support
+Maintainability: Exception","Robustness: Description
+Maintainability: Issue",
+291,Spring Framework,https://github.com/spring-projects/spring-framework/pull/291,None,,,,
+865,Spring Framework,https://github.com/spring-projects/spring-framework/pull/865,None,,,,
+586,Spring Framework,https://github.com/spring-projects/spring-framework/pull/586,None,,,,
+1376,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1376,Robustness,"""SPR-14925: Return 5xx HTTP status for invalid target types with Jackson""",Return,Title,
+23521,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23521,Maintainability,"""Use dependency management in Framework build""",Build,Title,
+1354,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1354,None,,,,
+381,Spring Framework,https://github.com/spring-projects/spring-framework/pull/381,None,,,,
+24792,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24792,Maintainability,"""Fix broken link in Javadoc for DynamicPropertySource""",Javadoc,Title,
+23050,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23050,None,,,,
+22516,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22516,"Maintainability, Security","""This commit updates URLs to prefer the https protocol. Redirects are not followed to avoid accidentally expanding intentionally shortened URLs (i.e. if using a URL shortener).""",HTTPS,Description,
+1990,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1990,None,,,,
+28836,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28836,"Robustness, Security","""Fixing internal error, when the message of an exception doesn't contain any text.
+
+In my application, this probably caused a memory leak. ""","Robustness: Internal error
+Security: Memory leak",Description,
+756,Spring Framework,https://github.com/spring-projects/spring-framework/pull/756,None,,,,
+1885,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1885,None,,,,
+1777,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1777,None,,,,
+25570,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25570,Performance,"""Optimize single character equality checks""",Optimize,Title,
+1324,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1324,None,,,,
+28792,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28792,None,,,,
+1618,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1618,None,,,,
+23815,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23815,Robustness,"""Changed the default character encoding to UTF-8 in both the exceptions""",Exception,Title,
+726,Spring Framework,https://github.com/spring-projects/spring-framework/pull/726,None,,,,
+573,Spring Framework,https://github.com/spring-projects/spring-framework/pull/573,Maintainability,"""Support asserting JSON regardless of order and formatting.""",Support,Description,
+27804,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27804,Maintainability,"""Fix javadoc reference to ThrowsAdvice """,Javadoc,Title,
+629,Spring Framework,https://github.com/spring-projects/spring-framework/pull/629,Performance,"""Use putIfAbsent in CachedIntrospectionResults to avoid writing to the map. This change results in less volatile field updates increasing get performance (which is far more common).""",Performance,Description,
+26442,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26442,Performance,"""Introduce 'idleReceivesPerTaskLimit' in DefaultMessageListenerContainer""",Limit,Title,
+27992,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27992,"Robustness, Performance","""Hence,
+the possibility to find several matching signatures by just using
+the schema name, catalog name and procedure/function name is real.""",,,
+28658,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28658,None,,,,
+23762,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23762,None,,,,
+1655,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1655,None,,,,
+23847,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23847,None,,,,
+62,Spring Framework,https://github.com/spring-projects/spring-framework/pull/62,None,,,,
+25062,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25062,Performance,"""Reduce unnecessary loops in PostProcessorRegistrationDelegate""",Reduce,Title,
+22334,Spring Framework,https://github.com/spring-projects/spring-framework/pull/22334,None,,,,
+25951,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25951,None,,,,
+829,Spring Framework,https://github.com/spring-projects/spring-framework/pull/829,Maintainability,"""Instead of having to use the default constructor then calling #setObjectMapper(ObjectMapper), this constructor allows the MappingJackson2JsonView to be created and configured with the desired object mapper in one step.""",Allows,Description,
+1455,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1455,None,,,,
+273,Spring Framework,https://github.com/spring-projects/spring-framework/pull/273,Maintainability,"""Support specifying time zone for @Scheduled cron""",Support,Title,
+325,Spring Framework,https://github.com/spring-projects/spring-framework/pull/325,None,,,,
+345,Spring Framework,https://github.com/spring-projects/spring-framework/pull/345,Robustness,"""Fix NPE in JettyRequestUpgradeStrategy""",Fix,Title,
+27494,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27494,None,,,,
+27334,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27334,Maintainability,"""simplify if statement""",Simplify,Title,
+1976,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1976,None,,,,
+971,Spring Framework,https://github.com/spring-projects/spring-framework/pull/971,None,,,,
+1611,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1611,None,,,,
+1795,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1795,None,,,,
+1865,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1865,None,,,,
+2060,Spring Framework,https://github.com/spring-projects/spring-framework/pull/2060,Maintainability,"""These mechanisms can be used in other test frameworks, and are already very well documented and tested.""",Test,Description,
+27567,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27567,Robustness,"""Fix assertion failure messages in DefaultDataBuffer.checkIndex()""",Failure,Title,
+24344,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24344,None,,,,
+823,Spring Framework,https://github.com/spring-projects/spring-framework/pull/823,None,,,,
+27442,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27442,None,,,,
+27891,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27891,None,,,,
+1943,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1943,None,,,,
+26487,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26487,Robustness,"""As a result, Spring RSocket app that has ProtobufDecoder configured can not receive a payload with application/vnd.google.protobuf data mime type.""",Payload,Description,
+26641,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26641,Robustness,"""No need to invoke doResolveDependency() repeatedly since target is already created.""",Repeatedly,Description,
+1486,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1486,None,,,,
+924,Spring Framework,https://github.com/spring-projects/spring-framework/pull/924,Robustness,"""This ultimately lead to problems with the GenericConversionService cache returning the ""wrong"" conditional converter in my application.""",Problems,Description,
+1070,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1070,Robustness,"""MethodBasedEvaluationContext.lazyLoadArguments fails for an empty variable arguments method call
+java.lang.ArrayIndexOutOfBoundsException at MethodBasedEvaluationContextTests.java:70""",Fails,Description,
+1229,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1229,None,,,,
+27291,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27291,None,-,-,-,-
+1981,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1981,Performance,Allow applications that use uber jar to benefit from cached entries rather than using the slow jar lookup for component scanning.,benefit from cached entries rather than using the slow jar lookup,Description,
+1719,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1719,Maintainability,Polish: constant names should comply with a naming convention,naming convention,Title,"Não foi feito, pois era um padrão diferente do projeto"
+194,Spring Framework,https://github.com/spring-projects/spring-framework/pull/194,Robustness,Previously CallableProcessingInterceptor and DeferredResultProcessingInterceptor did not have support for capturing the state of the original Thread just prior to processing. This made it difficult to transfer the state of one Thread (i.e. ThreadLocal) to the Thread used to process the Callable.,"This made it
+difficult to transfer the state of one Thread (i.e. ThreadLocal) to the
+Thread used to process the Callable.",Description,
+421,Spring Framework,https://github.com/spring-projects/spring-framework/pull/421,None,-,-,-,-
+1920,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1920,None,-,-,-,-
+1269,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1269,Performance,We have large result sets that are affected by the inefficiency of the LinkedCaseInsensitiveMap returned by the ColumnMapRowMapper. The problem can be fixed if we can just override getColumnMapRowMapper().,affected by the inefficiency,Description,
+1628,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1628,Robustness,Refactor getMethodIfAvailable to not cause NoSuchMethodExceptions,to not cause NoSuchMethodExceptions,Title,
+25170,Spring Framework,https://github.com/spring-projects/spring-framework/pull/25170,None,-,-,-,-
+1638,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1638,None,-,-,-,-
+270,Spring Framework,https://github.com/spring-projects/spring-framework/pull/270,Robustness,Improve failure mode when depends-on cycle exists,Improve failure mode,Title,
+1524,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1524,Maintainability,Documentation readability improvements,Documentation readability improvements,Title,
+23455,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23455,"Maintainability, Performance",Avoid storing unnecessary beanName in ApplicationListenerDetector,Avoid storing unnecessary,Title,
+1459,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1459,,,,,
+1544,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1544,Maintainability,Clarify docs for usage of @Configurable objects,Clarify docs for usage,Title,
+1308,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1308,None,-,-,-,-
+640,Spring Framework,https://github.com/spring-projects/spring-framework/pull/640,None,-,-,-,-
+27365,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27365,None,-,-,-,-
+26586,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26586,None,-,-,-,-
+24808,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24808,Maintainability,"Hello, this PR changes replace inner class with lambada to make the code more concise.",to make the code more concise,Description,
+24481,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24481,None,-,-,-,-
+26813,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26813,Maintainability,Added an easier way to set ExecuteExistingDelayedTasksAfterShutdown and ContinueExistingPeriodicTasksAfterShutdown policies.,Added an easier way to set,Description,
+1732,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1732,None,-,-,-,-
+566,Spring Framework,https://github.com/spring-projects/spring-framework/pull/566,None,-,-,-,-
+24672,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24672,Performance,Reduce String garbage in CglibAopProxy.doValidateClass(),Reduce String garbage,Title,
+23868,Spring Framework,https://github.com/spring-projects/spring-framework/pull/23868,Robustness,hasCorsConfigurationSource() now supports HandlerExecutionChain,now supports HandlerExecutionChain,Title,
+1543,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1543,None,-,-,-,-
+1282,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1282,Robustness,replace usage of the double constructor of BigDecimal with the String constructor of BigDecimal in JdbcTemplateQueryTests,replace usage of the double constructor of BigDecimal with the String constructor of BigDecimal,Description,
+27824,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27824,"Maintainability, Performance",Use Collection factory methods,Use Collection factory methods,Title,
+26429,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26429,None,-,-,-,-
+26416,Spring Framework,https://github.com/spring-projects/spring-framework/pull/26416,None,-,-,-,-
+1735,Spring Framework,https://github.com/spring-projects/spring-framework/pull/1735,None,-,-,-,-
+27979,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27979,Maintainability,"This way, tests that need to modify the native-detection-result can interact with SpringProperties to dynamically change the value.",tests that need to modify the native-detection-result can interact,Description,
+27700,Spring Framework,https://github.com/spring-projects/spring-framework/pull/27700,None,-,-,-,-
+233,Spring Framework,https://github.com/spring-projects/spring-framework/pull/233,None,-,-,-,-
+24384,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24384,None,-,-,-,-
+28181,Spring Framework,https://github.com/spring-projects/spring-framework/pull/28181,Robustness,"When new basenames are added (method addBasenames()) or changed (method setBasenames()), cache is not invalidated, although it is stale given the new basenames.",cache is not invalidated,Description,
+264,Spring Framework,https://github.com/spring-projects/spring-framework/pull/264,None,-,-,-,-
+24403,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24403,Maintainability,Simplify GenericConversionService.getMatchableConverters(),Simplify,Title,
+24388,Spring Framework,https://github.com/spring-projects/spring-framework/pull/24388,Performance,In cases when concatenation arguments are the same they produce equal String at each iteration. This is why we can hoist them to reduce output of String garbage.,we can hoist them to reduce output of String garbage.,Description,
+6578,Spring Security,https://github.com/spring-projects/spring-security/pull/6578,None,-,-,-,Polishing URLs
+8418,Spring Security,https://github.com/spring-projects/spring-security/pull/8418,Robustness,"""CommunicationException is thrown"", 
+"" introduce a new error message""","""thrown"", ""error""","Description, Discussion",-
+8590,Spring Security,https://github.com/spring-projects/spring-security/pull/8590,Robustness,"""will result in a null pointer exception""","""null pointer exception""",Title,-
+84,Spring Security,https://github.com/spring-projects/spring-security/pull/84,Security,"""SEC-2560""",-,Title,The NFR is infered by the tag SEC-2560 mentioned in the Title
+7491,Spring Security,https://github.com/spring-projects/spring-security/pull/7491,Security,"""validate saml2 signatures""","""validate"", ""saml2""",Title,SAML 2.0 is an XML-based protocol that uses security tokens
+8501,Spring Security,https://github.com/spring-projects/spring-security/pull/8501,"Security, Maintainability","Security: ""OAuth 2.0 Authorization Server Metadata"",
+""Validate OidcIdToken""
+
+Maintainability: ""Update documentation""","Security: ""oauth"", ""authorization"", ""validate""
+Maintainability: ""documentation""",Description,-
+4879,Spring Security,https://github.com/spring-projects/spring-security/pull/4879,"Security, Maintainability","Maintainability, Security: ""Format security filters enums for readability""","""security"", ""readability""",Title,-
+10041,Spring Security,https://github.com/spring-projects/spring-security/pull/10041,Security,"""Add converter for authentication result""","""authentication""",Title,
+3800,Spring Security,https://github.com/spring-projects/spring-security/pull/3800,None,-,-,-,Request to add a template to the github page
+10701,Spring Security,https://github.com/spring-projects/spring-security/pull/10701,None,-,-,-,Add workflow that triggers release on due date
+3937,Spring Security,https://github.com/spring-projects/spring-security/pull/3937,Security,"""populating a wrong authority.""","""authority""",Description,-
+8653,Spring Security,https://github.com/spring-projects/spring-security/pull/8653,"Security, Maintainability","Security: ""Adds cookie""
+
+Maintainability: ""follow the naming convention""","Security: ""cookie""
+Maintainability: ""naming""","Title, Discussion",-
+9482,Spring Security,https://github.com/spring-projects/spring-security/pull/9482,None,-,-,-,Fix missing return in example
+8400,Spring Security,https://github.com/spring-projects/spring-security/pull/8400,Security,"""searching of LDAP groups""","""LDAP""",-,"LDAP is a software protocol for enabling anyone to locate data about organizations, individuals and other resources such as files and devices in a network"
+9052,Spring Security,https://github.com/spring-projects/spring-security/pull/9052,Maintainability,"""This one could be named something like""","""named",Discussion,-
+6479,Spring Security,https://github.com/spring-projects/spring-security/pull/6479,Maintainability,"""discovered that the doc""","""doc""",Title,
+4041,Spring Security,https://github.com/spring-projects/spring-security/pull/4041,Security,"""Acegi security does not work with Tomcat8""","""security""",Description,-
+7182,Spring Security,https://github.com/spring-projects/spring-security/pull/7182,Robustness,"""I also add check to save logic with throwing an exception"",
+""remove this extra check and exception""","""throwing"", ""exception""",Discussion,-
+5256,Spring Security,https://github.com/spring-projects/spring-security/pull/5256,None,-,-,-,The HttpHeader's ContentLength is a byte unit
+6887,Spring Security,https://github.com/spring-projects/spring-security/pull/6887,"Robustness, Security, Maintainability","Robustness, Security: ""prefers an immediate null check as we can then be sure there isn't a null value later"",
+""reduce the places for bugs to hide"", ""In security code especially""
+Maintainability: ""I find it more difficult to read""","Robustness, Security: ""null, ""bugs""
+Maintainability: ""difficult to read""",Discussion,-
+5716,Spring Security,https://github.com/spring-projects/spring-security/pull/5716,Security,"""Reactive Jwt Validation""","""validation""",Title,-
+10498,Spring Security,https://github.com/spring-projects/spring-security/pull/10498,Maintainability,"""Update aspectj-plugin""","""update""",Title,-
+6641,Spring Security,https://github.com/spring-projects/spring-security/pull/6641,"Maintainability, Robustness","""URL Cleanup""","Maintainability: ""Cleanup""","Title, Discussion",The user shows that exceptions that would be thrown
+8880,Spring Security,https://github.com/spring-projects/spring-security/pull/8880,Security,"""Resolve oauth2""","""ouath2""",Title,-
+10223,Spring Security,https://github.com/spring-projects/spring-security/pull/10223,Maintainability,"""match the rest of the documentation""","""documentation""",Discussion,-
+9062,Spring Security,https://github.com/spring-projects/spring-security/pull/9062,Performance,"""Disable parallel deployment build in GitHub Actions pipelines"",
+""not run in parallel in CI pipeline""","""pipeline"", ""paralell""","Title, Description",-
+7879,Spring Security,https://github.com/spring-projects/spring-security/pull/7879,Maintainability,"""complicates the control flow""","Maintainability: ""complicates""",Description,-
+216,Spring Security,https://github.com/spring-projects/spring-security/pull/216,None,-,-,-,-
+5230,Spring Security,https://github.com/spring-projects/spring-security/pull/5230,Maintainability,"""Support whitespace characters""","""support""",Title,-
+6979,Spring Security,https://github.com/spring-projects/spring-security/pull/6979,Maintainability,"""is called for comprehensible output to the logger.""","""comprehensible""",Description,-
+10304,Spring Security,https://github.com/spring-projects/spring-security/pull/10304,Maintainability,"""Fix typo in digest.adoc""","""typo""",Title,-
+9611,Spring Security,https://github.com/spring-projects/spring-security/pull/9611,None,-,-,-,-
+7881,Spring Security,https://github.com/spring-projects/spring-security/pull/7881,Security,"""authorize URL parameters, 
+""If the authorization URL in the OAuth2"", 
+""adding query parameters to the authorization URL"",","""authorize"", ""authorization","Title, Description",-
+6542,Spring Security,https://github.com/spring-projects/spring-security/pull/6542,"Performance, Robustness","Performance: ""changes that add cpu cycles"", ""If you are concerned about performance"", ""demonstrable inefficiencies""
+Robustness: ""there are null checks"", ""known to be non-null"", ""will throw NullPointerException""","Performance: ""cpu cycles"", ""performance"", ""inefficiencies""
+Robustness: ""null checks"", ""non-null, ""NullPointerException""","Title, Description, Discussion",-
+7477,Spring Security,https://github.com/spring-projects/spring-security/pull/7477,"Security, Robustness","Security, Robustness: ""propagate saml authentication exception""","Security: ""saml"", ""authentication""
+Robustness: ""exception""",Title,-
+5441,Spring Security,https://github.com/spring-projects/spring-security/pull/5441,Performance,"""Transfer session's max inactive interval""","""session""",Title,-
+4219,Spring Security,https://github.com/spring-projects/spring-security/pull/4219,Maintainability,"""Fix class name in comment""","""should be""",Description,-
+183,Spring Security,https://github.com/spring-projects/spring-security/pull/183,Maintainability,"""Remove duplicate test""","""duplicate""","Title, Description",-
+5928,Spring Security,https://github.com/spring-projects/spring-security/pull/5928,Security,"""for when authentication is required""","""authentication""",Discussion,-
+6298,Spring Security,https://github.com/spring-projects/spring-security/pull/6298,"Security, Robustness","Security: ""Extract OidcTokenValidator to an OAuth2TokenValidator""
+Robustness: ""verifying the correct error was present""","Security: ""oauth2""
+Robustness: ""error""",Discussion,-
+189,Spring Security,https://github.com/spring-projects/spring-security/pull/189,None,-,-,-,
+9280,Spring Security,https://github.com/spring-projects/spring-security/pull/9280,None,-,-,-,
+6540,Spring Security,https://github.com/spring-projects/spring-security/pull/6540,Security,"Security: ""usercache authorization server""","""authorization""",Title,
+3885,Spring Security,https://github.com/spring-projects/spring-security/pull/3885,Maintainability,"""Document spring-security-test dependency""","""document""",Title,-
+7813,Spring Security,https://github.com/spring-projects/spring-security/pull/7813,Security,"""deployments for OAuth2LoginAuthenticationFilter ""","""oauth2""",Title,
+8319,Spring Security,https://github.com/spring-projects/spring-security/pull/8319,None,-,-,-,
+6116,Spring Security,https://github.com/spring-projects/spring-security/pull/6116,None,,,,
+10372,Spring Security,https://github.com/spring-projects/spring-security/pull/10372,Maintainability,"""Simple link fix in .editorconfig for fellow developers""",""".editorconfig""",Discussion,
+9654,Spring Security,https://github.com/spring-projects/spring-security/pull/9654,None,,,,
+11291,Spring Security,https://github.com/spring-projects/spring-security/pull/11291,Maintainability,"""The Title of Digest Authentication document doesn't render properly""","""Documentation"", ""Document""",Discussion,
+30,Spring Security,https://github.com/spring-projects/spring-security/pull/30,"Security, Robustness","Security: ""Session""
+Robustness: "" ensure the onSessionChange method does not throw a NullPointerException""","""Session"", ""NullPointerException""","Title, Discussion",
+7780,Spring Security,https://github.com/spring-projects/spring-security/pull/7780,None,,,,
+6201,Spring Security,https://github.com/spring-projects/spring-security/pull/6201,None,,,,
+6836,Spring Security,https://github.com/spring-projects/spring-security/pull/6836,Maintainability,"""Readme is outdated and does not reference the correct endpoints""","""Readme"", ""Outdated""",Discussion,
+4206,Spring Security,https://github.com/spring-projects/spring-security/pull/4206,Maintainability,"""Renaming Bcrypt methods to follow JavaNamingStandards""","""Renaming"", ""Standard""",Title,
+9868,Spring Security,https://github.com/spring-projects/spring-security/pull/9868,Maintainability,"""Insufficient authentication message for French""","""French""",Title,
+6977,Spring Security,https://github.com/spring-projects/spring-security/pull/6977,None,,,,
+10081,Spring Security,https://github.com/spring-projects/spring-security/pull/10081,Maintainability,"""Add ObjectIdentityGenerator customization to JdbcAclService""","""customization""",Title,
+9658,Spring Security,https://github.com/spring-projects/spring-security/pull/9658,Robustness,"""A ClassCastException is thrown when creating a JwtDecoder from an issuer uri.""","""ClassCastException""",Discussion,
+5900,Spring Security,https://github.com/spring-projects/spring-security/pull/5900,Maintainability,"""Add TestSecurityContextHolder""","""Test""",Title,
+4970,Spring Security,https://github.com/spring-projects/spring-security/pull/4970,Performance,"""Optimize IpAddressMatcher""","""Optimize"", ""Allocation""","Title, Description",
+3897,Spring Security,https://github.com/spring-projects/spring-security/pull/3897,Maintainability,"""Updated FAQ""","""Update FAQ""",Title,
+9218,Spring Security,https://github.com/spring-projects/spring-security/pull/9218,Maintainability,"""The existing containsClaim method is now deprecated.""","""Deprecated""",Discussion,
+3854,Spring Security,https://github.com/spring-projects/spring-security/pull/3854,None,,,,
+187,Spring Security,https://github.com/spring-projects/spring-security/pull/187,None,,,,
+4194,Spring Security,https://github.com/spring-projects/spring-security/pull/4194,Robustness,"""NullPointerException is thrown by WebSocketMessageBrokerSecurityBeanDefinitionParser.java:258 at application startup""","""NullPointerException""",Discussion,
+7258,Spring Security,https://github.com/spring-projects/spring-security/pull/7258,Security,"""You can prevent any additional users from logging in when the maximum number of sessions has been reached""","""Prevent"", ""Login"", ""Session""",Discussion,
+4378,Spring Security,https://github.com/spring-projects/spring-security/pull/4378,None,,,,
+6562,Spring Security,https://github.com/spring-projects/spring-security/pull/6562,None,,,,
+10155,Spring Security,https://github.com/spring-projects/spring-security/pull/10155,None,,,,
+7493,Spring Security,https://github.com/spring-projects/spring-security/pull/7493,None,,,,
+6582,Spring Security,https://github.com/spring-projects/spring-security/pull/6582,Maintainability,"""We have performed some polish on your URLs""","""Polish""",Title,
+5215,Spring Security,https://github.com/spring-projects/spring-security/pull/5215,None,,,,
+3839,Spring Security,https://github.com/spring-projects/spring-security/pull/3839,None,,,,
+3836,Spring Security,https://github.com/spring-projects/spring-security/pull/3836,Maintainability,"""fix(testing): change the way to detect the springSecurityFilterChain""","""Testing""",Title,
+4547,Spring Security,https://github.com/spring-projects/spring-security/pull/4547,Maintainability,"""Upgrade Nimbus dependencies""","""Update"", ""Dependencies""","Title, Description",
+10332,Spring Security,https://github.com/spring-projects/spring-security/pull/10332,None,,,,
+59,Spring Security,https://github.com/spring-projects/spring-security/pull/59,None,,,,
+7510,Spring Security,https://github.com/spring-projects/spring-security/pull/7510,Maintainability,"""Improve saml2login and hellorsocket sampless""","""Improve""",Title,
+6240,Spring Security,https://github.com/spring-projects/spring-security/pull/6240,Maintainability,"""Improve error message for Chinese""","""Chinese""",Title,
+68,Spring Security,https://github.com/spring-projects/spring-security/pull/68,None,,,,
+9303,Spring Security,https://github.com/spring-projects/spring-security/pull/9303,Robustness,"""Fixed possible NullPointerException that happens when the OAuth2 ""","""NullPointerException""","Title, Description",
+7643,Spring Security,https://github.com/spring-projects/spring-security/pull/7643,Maintainability,"""Corrected some typos in the documentation and added an example TenantRepository""","""Documentation""","Title, Description",
+252,Spring Security,https://github.com/spring-projects/spring-security/pull/252,Security,"""SEC-3190: Add support for colons in remember-me token values""","""Token""",Title,
+6956,Spring Security,https://github.com/spring-projects/spring-security/pull/6956,None,,,,
+7098,Spring Security,https://github.com/spring-projects/spring-security/pull/7098,Security,"""More flexibility on authorizations lookup on OAuth2 resource-server""","""Authorizations""",Discussion,
+7691,Spring Security,https://github.com/spring-projects/spring-security/pull/7691,Maintainability,"""Migrate LDAP integration tests groovy->java""","""Migrate"", ""Tests""",Title,
+8805,Spring Security,https://github.com/spring-projects/spring-security/pull/8805,None,,,,
+4670,Spring Security,https://github.com/spring-projects/spring-security/pull/4670,None,,,,
+8899,Spring Security,https://github.com/spring-projects/spring-security/pull/8899,None,,,,
+176,Spring Security,https://github.com/spring-projects/spring-security/pull/176,None,,,,
+5655,Spring Security,https://github.com/spring-projects/spring-security/pull/5655,Security,"""Jwt Decoder Local Key Configuration""","""JWT"", ""Public Key""","Title, Discussion",
+6938,Spring Security,https://github.com/spring-projects/spring-security/pull/6938,Security,Add success handler modification of OAuth2LoginSpec,OAuth2LoginSpec,Title,-
+191,Spring Security,https://github.com/spring-projects/spring-security/pull/191,None,-,-,-,-
+8414,Spring Security,https://github.com/spring-projects/spring-security/pull/8414,None,-,-,-,Problema na documentação apenas
+11317,Spring Security,https://github.com/spring-projects/spring-security/pull/11317,Security,Change phoneNumberVerified with type Boolean,phoneNumberVerified,Title,Identificação acaba sendo mais pelo contexto e pela label do que pelas keywords em si.
+7467,Spring Security,https://github.com/spring-projects/spring-security/pull/7467,"Security, Maintainability",Allow to customize OAuth2AuthorizationRequestRedirectWebFilter in OAuth2LoginSpec,"OAuth2AuthorizationRequestRedirectWebFilter, OAuth2LoginSpec, customize",Title,-
+203,Spring Security,https://github.com/spring-projects/spring-security/pull/203,Security,SEC-2678 Disable HSTS by default,HSTS,Title,-
+38,Spring Security,https://github.com/spring-projects/spring-security/pull/38,None,-,-,-,-
+5580,Spring Security,https://github.com/spring-projects/spring-security/pull/5580,None,-,-,-,-
+51,Spring Security,https://github.com/spring-projects/spring-security/pull/51,Security,SEC-1932 Add Pbkdf2PasswordEncoder,Pbkdf2PasswordEncoder,Title,-
+7694,Spring Security,https://github.com/spring-projects/spring-security/pull/7694,Maintainability,"Improve unit test maintainability
+Replace test vectors with a list of test objects to improve readability/maintainability",maintainability,"Title, Description",-
+9505,Spring Security,https://github.com/spring-projects/spring-security/pull/9505,Security,Gh 6053 support jwt bearer grant type,"jwt, bearer, grant",Title,-
+11168,Spring Security,https://github.com/spring-projects/spring-security/pull/11168,None,-,-,-,-
+5182,Spring Security,https://github.com/spring-projects/spring-security/pull/5182,None,-,-,-,-
+4207,Spring Security,https://github.com/spring-projects/spring-security/pull/4207,None,-,-,-,-
+11388,Spring Security,https://github.com/spring-projects/spring-security/pull/11388,None,-,-,-,-
+6393,Spring Security,https://github.com/spring-projects/spring-security/pull/6393,Security,Update JwtTimestampValidator.java,JwtTimestampValidator.java,Title,"Já não é o primeiro caso em que a keyword está dentro de uma palavra maior. Normalmente acontece quando o título se refere ao nome de uma classe (e.g. JwtTimestampValidator.java, Pbkdf2PasswordEncoder, etc.)"
+6375,Spring Security,https://github.com/spring-projects/spring-security/pull/6375,Security,ID Token validation supports clock skew,token,Title,
+4229,Spring Security,https://github.com/spring-projects/spring-security/pull/4229,None,-,-,-,-
+5419,Spring Security,https://github.com/spring-projects/spring-security/pull/5419,None,-,-,-,-
+10574,Spring Security,https://github.com/spring-projects/spring-security/pull/10574,Security,Prevent using both authorizeRequests and authorizeHttpRequests,"authorizeRequests, authorizeHttpRequests",Title,-
+10357,Spring Security,https://github.com/spring-projects/spring-security/pull/10357,None,-,-,-,-
+6097,Spring Security,https://github.com/spring-projects/spring-security/pull/6097,Security,Update webflux-form sample to use Built in CSRF Support,CSRF,Title,-
+10895,Spring Security,https://github.com/spring-projects/spring-security/pull/10895,None,-,-,-,-
+11321,Spring Security,https://github.com/spring-projects/spring-security/pull/11321,Security,Add support to ClientRegistrations for using a metadata resolver,ClientRegistrations,Title,-
+6510,Spring Security,https://github.com/spring-projects/spring-security/pull/6510,None,-,-,-,-
+6930,Spring Security,https://github.com/spring-projects/spring-security/pull/6930,None,-,-,-,-
+5316,Spring Security,https://github.com/spring-projects/spring-security/pull/5316,Robustness,"CookieServerCsrfTokenRepository fails when cookie is null/empty, The CookieServerCsrfTokenRepository fails with an IllegalArgumentException
+when a cookie is present but the value is null or empty.","failsm, IllegalArgumentException","Title, Description",-
+10553,Spring Security,https://github.com/spring-projects/spring-security/pull/10553,Security,Allow Multipart form POSTs to include access tokens,access tokens,Title,-
+8583,Spring Security,https://github.com/spring-projects/spring-security/pull/8583,Security,JWT encoding support for OAuth 2.0,"JWT, OAuth",Title,-
+63,Spring Security,https://github.com/spring-projects/spring-security/pull/63,Security,LDAP PasswordComparisonAuthenticator now supports salted-SHA passwords,"PasswordComparisonAuthenticator, salted, SHA, passwords",Title,-
+7748,Spring Security,https://github.com/spring-projects/spring-security/pull/7748,Maintainability,"Simplify customizing OAuth2AuthorizationRequest, Although this strategy could fulfill most (if not all) use cases, it does require some extra configuration that may not be as convenient compared to directly ""hooking"" into the OAuth2AuthorizationRequest.Builder for customizations.","simplify, convenient","Title, Description",-
+8854,Spring Security,https://github.com/spring-projects/spring-security/pull/8854,Security,"Introduce AuthenticationConverterServerWebExchangeMatcher, It can be used as a matcher where SecurityFilterChain should be matched based on used authentication method.","Authentication, SecurityFilterChain","Title, Description",-
+55,Spring Security,https://github.com/spring-projects/spring-security/pull/55,None,-,-,-,-
+158,Spring Security,https://github.com/spring-projects/spring-security/pull/158,Security,"Add BCrypt byte[] APIs, additional tests",BCrypt,Title,-
+11054,Spring Security,https://github.com/spring-projects/spring-security/pull/11054,Maintainability,"Make getters of handlers publically accessible, Changes AbstractAuthenticationProcessingFilter getters of success and failure handlers to public visibility so that allowSessionCreation flag can be configured, see also gh-11053.","publically, acessible, getters, public, visibility",Title,-
+8780,Spring Security,https://github.com/spring-projects/spring-security/pull/8780,None,-,-,-,-
+197,Spring Security,https://github.com/spring-projects/spring-security/pull/197,None,-,-,-,-
+9485,Spring Security,https://github.com/spring-projects/spring-security/pull/9485,None,-,-,-,-
+9168,Spring Security,https://github.com/spring-projects/spring-security/pull/9168,"Maintainability, Security","Enable customization of BearerTokenResolver by adding a setter for JwtClaimIssuerConverter on JwtIssuerAuthenticationManagerResolver, I use the JwtIssuerAuthenticationManagerResolver in a web socket backend which receives the JWT not in the Authorization Header but in a custom X-Authorization Cookie Header. Therefore, I need to use my own BearerTokenResolver implementation which gets the JWT from there. This seems not to be possible at the moment.","customization, JWT, BearerTokenResolver","Title, Description",
+8884,Spring Security,https://github.com/spring-projects/spring-security/pull/8884,None,-,-,-,-
+7623,Spring Security,https://github.com/spring-projects/spring-security/pull/7623,Robustness,Application will crash if no available internet access since commit 2e63def,crash,Description,
+165,Spring Security,https://github.com/spring-projects/spring-security/pull/165,None,-,-,-,-
+4897,Spring Security,https://github.com/spring-projects/spring-security/pull/4897,"Maintainability, Security","The first commit fixes incomplete commit e68d8bf in context with gh-234.
+e68d8bf added a private field providedSessionAuthenticationStrategy but missed to set it somewhere.
+The second commit improves the possibilities to configure session management.
+In my opinion it's kind of surprising that setting session authorization disables session fixation.","session, authorization",Description,"Identifiquei manutenibilidade pelo contexto, mas não encontrei nenhuma keyword específica que pudesse apontar o NFR."
+4119,Spring Security,https://github.com/spring-projects/spring-security/pull/4119,Maintainability,Polishing the ReferrerPolicyHeaderWriter,polishing,Title,
+7639,Spring Security,https://github.com/spring-projects/spring-security/pull/7639,None,-,-,-,-
+6870,Spring Security,https://github.com/spring-projects/spring-security/pull/6870,Security,Added support for providing custom parameters to an OAuth 2.0 token introspection request. This is done by explicitly instantiating a NimbusOAuth2TokenIntrospectionClient instance and then setting a custom Converter implementation.,"OAuth, token",Description,
+107,Spring Security,https://github.com/spring-projects/spring-security/pull/107,Security,SEC-2189: Modifed the AbstractAuthorizeTag#authorizeUsingUrlCheck,"SEC, Authorize",Title,-
+4895,Spring Security,https://github.com/spring-projects/spring-security/pull/4895,None,-,-,-,-
+6850,Spring Security,https://github.com/spring-projects/spring-security/pull/6850,"Security, Maintainability, Robustness","""I think that along with that we should update the documentation to explain that when extending WebSecurityConfigurerAdapter is needed too (i.e. when we need to modify the default behavior of web based security)."", ""This is explained in chapters 6.2 - 6.5. You may be right that this documentation fragment is not perfect and it could use some refactoring. But the intention of this patch is just to fix an obvious bug - wrong class name used in the example.""","security, refactoring, bug, documentation",Comment,-
+4135,Spring Security,https://github.com/spring-projects/spring-security/pull/4135,Maintainability,"""Polish Documentation"", ""This PR fixes some typos and polishes trivial stuff.""","polish, documentation, typos","Title, Description",-
+6649,Spring Security,https://github.com/spring-projects/spring-security/pull/6649,Maintainability,"""URL Cleanup""",cleanup,Title,-
+8436,Spring Security,https://github.com/spring-projects/spring-security/pull/8436,None,-,-,-,-
+6129,Spring Security,https://github.com/spring-projects/spring-security/pull/6129,None,-,-,-,-
+10212,Spring Security,https://github.com/spring-projects/spring-security/pull/10212,Security,"""Decrypt assertions even when response is not signed""",decrypt,Title,-
+7710,Spring Security,https://github.com/spring-projects/spring-security/pull/7710,None,-,-,-,"Fala de access token, mas na minha opinião é um requisito funcional que está sendo discutido."
+6660,Spring Security,https://github.com/spring-projects/spring-security/pull/6660,Maintainability,"""URL Cleanup""",cleanup,Title,-
+3700,Spring Security,https://github.com/spring-projects/spring-security/pull/3700,None,-,-,-,-
+9581,Spring Security,https://github.com/spring-projects/spring-security/pull/9581,None,-,-,-,-
+100,Spring Security,https://github.com/spring-projects/spring-security/pull/100,Security,"""SEC-2656: fix and unit test""",SEC,Title,
+8796,Spring Security,https://github.com/spring-projects/spring-security/pull/8796,"Robustness, Security","""Without the change the prefix role is default ""ROLE_ and the demo throws the following exception:
+org.springframework.security.access.AccessDeniedException: Access is denied
+while access to /post.html?id=1&amount=20.00."", ""Thanks for the PR. I changed the method based security to use hasAuthority to be consistent with the web layer. See 9c33a86""","throws, denied, security, authority",Comment,-
+261,Spring Security,https://github.com/spring-projects/spring-security/pull/261,None,-,-,-,-
+53,Spring Security,https://github.com/spring-projects/spring-security/pull/53,Security,"""Added RememberMeAuthenticationException constructor which keeps the root cause of the exception""",exception,Description,-
+3863,Spring Security,https://github.com/spring-projects/spring-security/pull/3863,None,-,-,-,-
+10348,Spring Security,https://github.com/spring-projects/spring-security/pull/10348,Maintainability,"""And tell me please, is it OK to do some small organizational PR like fix broken javadoc links or typos in some small files (like in plugin configs).""","javadoc, typos",Comment,-
+3717,Spring Security,https://github.com/spring-projects/spring-security/pull/3717,None,-,-,-,-
+11433,Spring Security,https://github.com/spring-projects/spring-security/pull/11433,None,-,-,-,-
+7012,Spring Security,https://github.com/spring-projects/spring-security/pull/7012,Security,"""I've made the assumption that the query parameters here have already been decoded and therefore can be validated against a pattern.""","validated, pattern",Comment,-
+9128,Spring Security,https://github.com/spring-projects/spring-security/pull/9128,"Security, Robustness","""Catch iIlegalStateException when session is already invalidate"", ""When a session is already invalidated then an uncaught exception is thrown. "", ""Or, since it appears to be caused by a race condition, perhaps that can be addressed instead.""","invalidate, exception, thrown, condition","Title, Description, Comment",-
+6093,Spring Security,https://github.com/spring-projects/spring-security/pull/6093,None,-,-,-,-
+10924,Spring Security,https://github.com/spring-projects/spring-security/pull/10924,None,-,-,-,-
+7663,Spring Security,https://github.com/spring-projects/spring-security/pull/7663,Maintainability,"""Fix minor typo in HttpSecurity documentation""","documentation, typo",Title,
+10278,Spring Security,https://github.com/spring-projects/spring-security/pull/10278,None,-,-,-,-
+4331,Spring Security,https://github.com/spring-projects/spring-security/pull/4331,None,-,-,-,-
+7183,Spring Security,https://github.com/spring-projects/spring-security/pull/7183,None,-,-,-,-
+14,Spring Security,https://github.com/spring-projects/spring-security/pull/14,Security,"""SEC-1987 & SEC-1986"", ""I add the CasRememberMeAccessDeniedHandler class to handle CAS remember-me authentication when access is denied"", ""The CasAccessDeniedHandler does not differentiate between access denied due to the user is anonymous and a missing role role (or any other type of failure). Consider trying to access the extreme secure page as scott / scott when scott is ""remembered"". "", ""The use of the CasRememberMeAccessDeniedHandler has to be configured according to the rest of the security configuration, it may (will ?) be tricky.""","access, secure, security, SEC, denied","Title, Description, Comment",Discussão interessante
+11366,Spring Security,https://github.com/spring-projects/spring-security/pull/5376,None,-,-,-,-
+5376,Spring Security,,None,-,-,-,-
+9453,Spring Security,https://github.com/spring-projects/spring-security/pull/9453,None,-,-,-,-
+7644,Spring Security,https://github.com/spring-projects/spring-security/pull/7644,None,-,-,-,-
+74,Spring Security,https://github.com/spring-projects/spring-security/pull/74,None,-,-,-,-
+8771,Spring Security,https://github.com/spring-projects/spring-security/pull/8771,None,-,-,-,-
+5536,Spring Security,https://github.com/spring-projects/spring-security/pull/5536,None,-,-,-,-
+8424,Spring Security,https://github.com/spring-projects/spring-security/pull/8424,None,-,-,-,-
+7013,Spring Security,https://github.com/spring-projects/spring-security/pull/7013,Security,"""Should it retrieve the OAuth2AuthorizedClient again if the token is expired?"", ""If the grant type is PASSWORD doesn't it need to use a OAuth2PasswordGrantRequest to request a new token?"", ""No. For expired access tokens, the RefreshTokenOAuth2AuthorizedClientProvider handles this. The PasswordOAuth2AuthorizedClientProvider only handles getting a new access token (if client is not authorized)""","token, oauth, password, authorized",Comment,-
+41,Spring Security,https://github.com/spring-projects/spring-security/pull/41,None,-,-,-,-
+201,Spring Security,https://github.com/spring-projects/spring-security/pull/201,None,-,-,-,-
+6269,Spring Security,https://github.com/spring-projects/spring-security/pull/6269,Maintainability,"""making it hard to usefully extend. Breaking it up into overridable methods.""","""extend""",Description,Discussão ocorre na issue relacionada
+4066,Spring Security,https://github.com/spring-projects/spring-security/pull/4066,None,-,-,-,-
+6583,Spring Security,https://github.com/spring-projects/spring-security/pull/6583,None,-,-,-,-
+9042,Spring Security,https://github.com/spring-projects/spring-security/pull/9042,None,-,-,-,-
+7356,Spring Security,https://github.com/spring-projects/spring-security/pull/7356,Security,"""Refactor auth token/login providers""","""auth""",Title,PR Rejeitada
+6367,Spring Security,https://github.com/spring-projects/spring-security/pull/6367,None,-,-,-,-
+8332,Spring Security,https://github.com/spring-projects/spring-security/pull/8332,Performance,Provide possibility to use custom cache to store JWK Set,"""custom cache""",Title,-
+230,Spring Security,https://github.com/spring-projects/spring-security/pull/230,None,,,,
+7277,Spring Security,https://github.com/spring-projects/spring-security/pull/7277,None,,,,
+7996,Spring Security,https://github.com/spring-projects/spring-security/pull/7996,Performance,"""Add lazy Exception instantiation and reduce amount of
+reactor operators to reduce allocations""","""reduce allocations"", ""lazy exceptions""","Description, Discussion",
+6563,Spring Security,https://github.com/spring-projects/spring-security/pull/6563,Maintainability,"""This allows for an easy integration""","""easy integration""",discussion,
+7597,Spring Security,https://github.com/spring-projects/spring-security/pull/7597,Maintainability,"""This PR also refactors the OAuth2ResourceServerConfigurer to make better use of the newly introduced way of managing aforementioned converters.""","""refactors"" ""to make better use""",Description,"ok, é uma manutenção, mas não fica claro para mim se a principal contribuição é melhor a manutenibilidade"
+8698,Spring Security,https://github.com/spring-projects/spring-security/pull/8698,None,,,,
+5728,Spring Security,https://github.com/spring-projects/spring-security/pull/5728,Security,"This makes so that WebFlux OAuth 2.0 Resource Server configuration
+will pick up a ReactiveJwtDecoder exposed as a bean.","""exposed as a bean""",Description,
+5307,Spring Security,https://github.com/spring-projects/spring-security/pull/5307,Maintainability,"""InMemoryOAuth2AuthorizedClientService cannot contain the logic for storing in the HttpSession. It breaks the rule of single responsibility.""","""single responsibility""",discussion,
+10225,Spring Security,https://github.com/spring-projects/spring-security/pull/10225,None,,,,não vi nada aqui sobre NFR
+10111,Spring Security,https://github.com/spring-projects/spring-security/pull/10111,None,,,,idem
+7333,Spring Security,https://github.com/spring-projects/spring-security/pull/7333,None,,,,idem
+11309,Spring Security,https://github.com/spring-projects/spring-security/pull/11309,None,,,,idem
+4266,Spring Security,https://github.com/spring-projects/spring-security/pull/4266,Maintainability,"""It is anoying to have to copy the code just because its package-private.""","""copy of the code""",Description,não foi aceito
+231,Spring Security,https://github.com/spring-projects/spring-security/pull/231,None,,,,
+4436,Spring Security,https://github.com/spring-projects/spring-security/pull/4436,Maintainability,"""This small pull request updates the (outdated?) JavaDoc in Pbkdf2PasswordEncoder, so that it uses the actual values for the default number of iterations and hash width""","""outdated JavaDoc""",Description,é uma interepretação pessoal que a documentação desatualizada irá impactar na manutenibilidade
+174,Spring Security,https://github.com/spring-projects/spring-security/pull/174,None,,,,
+171,Spring Security,https://github.com/spring-projects/spring-security/pull/171,Robustness,If token not present into request generate the InvalidCsrfTokenException always,"""generate the ...expection""",Description,não foi aceito
+6878,Spring Security,https://github.com/spring-projects/spring-security/pull/6878,None,,,,"falta clareza, tem a ver com javadoc"
+7221,Spring Security,https://github.com/spring-projects/spring-security/pull/7221,Security,"""Add support to avoid timing attacks in the csrf tokens""","""timing attacks""",Title,não foi implementado
+10588,Spring Security,https://github.com/spring-projects/spring-security/pull/10588,None,,,,
+5150,Spring Security,https://github.com/spring-projects/spring-security/pull/5150,None,,,,
+8756,Spring Security,https://github.com/spring-projects/spring-security/pull/8756,Performance,"""Use memory-saving Collections.singletonList in JdbcAclService.readAclById()""
+""We don't need array-based Arrays.asList() as we always have only one instance ObjectIdentity at call site.""","""memory-saving"" ""only one instance""","Title, Description",
+7080,Spring Security,https://github.com/spring-projects/spring-security/pull/7080,Maintainability,"""Changed docs to reflect that init should apply configurers""","""reflect""",Title,é uma interepretação pessoal que a documentação desatualizada irá impactar na manutenibilidade
+11464,Spring Security,https://github.com/spring-projects/spring-security/pull/11464,Security,"""Add SHA256 as an algorithm option for Remember Me token hashing""","""SHA256"" 'token hashing""",Title,
+9335,Spring Security,https://github.com/spring-projects/spring-security/pull/9335,None,,,,
+8350,Spring Security,https://github.com/spring-projects/spring-security/pull/8350,None,,,,
+4074,Spring Security,https://github.com/spring-projects/spring-security/pull/4074,Security,"""Add open redirect prevention""","""open redirect"" ""prevention""",Title,
+7238,Spring Security,https://github.com/spring-projects/spring-security/pull/7238,Maintainability,"""Cleanup Code Style Issues""","""code style"" ""cleanup""",Title,os títulos dos commits fazem menção a outros termos interessantes
+218,Spring Security,https://github.com/spring-projects/spring-security/pull/218,Robustness,"""Fix NullPointerException""","""NullPointerExcpetion""",Title,
+7762,Spring Security,https://github.com/spring-projects/spring-security/pull/7762,None,,,,"o autor cite outro PR original, cuja descrição sugere manutenibilidade"
+9333,Spring Security,https://github.com/spring-projects/spring-security/pull/9333,None,,,,
+10151,Spring Security,https://github.com/spring-projects/spring-security/pull/10151,None,,,,
+3744,Spring Security,https://github.com/spring-projects/spring-security/pull/3744,None,,,,"No entanto, a PR não foi aceita devido à questões de segurança"
+8959,Spring Security,https://github.com/spring-projects/spring-security/pull/8959,None,,,,
+11187,Spring Security,https://github.com/spring-projects/spring-security/pull/11187,None,,,,
+6969,Spring Security,https://github.com/spring-projects/spring-security/pull/6969,Security,"""Add extra salt length check for BCrypt.""","""salt length check""",Title,
+4621,Spring Security,https://github.com/spring-projects/spring-security/pull/4621,None,,,,
+7231,Spring Security,https://github.com/spring-projects/spring-security/pull/7231,None,,,,
+11081,Spring Security,https://github.com/spring-projects/spring-security/pull/11081,Security,"""Remove SAML Deprecations""","""SAML Deprecations""",Title,
+6918,Spring Security,https://github.com/spring-projects/spring-security/pull/6918,None,,,,
+3955,Spring Security,https://github.com/spring-projects/spring-security/pull/3955,None,,,,
+4,Spring Security,https://github.com/spring-projects/spring-security/pull/4,None,,,,
+9327,Spring Security,https://github.com/spring-projects/spring-security/pull/9327,None,,,,
+7419,Spring Security,https://github.com/spring-projects/spring-security/pull/7419,Security,"""Bearer WebClient Filter Authentication Propagation""","""Authentication Propagation""",Title,
+10046,Spring Security,https://github.com/spring-projects/spring-security/pull/10046,Maintainability,"""Otherwise we would need to document the new handler""","""document""",Discussion,
+6509,Spring Security,https://github.com/spring-projects/spring-security/pull/6509,Maintainability,"""Please give some idea how I can write test""
+""Also, I added a polish commit of 2b960b0 for the Java Config test - please take a look at the commit message for future reference.""","""test""
+""polish""",Discussion,
+9053,Spring Security,https://github.com/spring-projects/spring-security/pull/9053,None,,,,
+7167,Spring Security,https://github.com/spring-projects/spring-security/pull/7167,,,,,
+7753,Spring Security,https://github.com/spring-projects/spring-security/pull/7753,Security,"""on for the default authentication entry point and authentication""","""authentication""",Description,
+6330,Spring Security,https://github.com/spring-projects/spring-security/pull/6330,Maintainability,"""Fix LazyCsrfTokenRepository Javadoc Typo""","""javadoc""",Title,
+7218,Spring Security,https://github.com/spring-projects/spring-security/pull/7218,None,,,,
+7125,Spring Security,https://github.com/spring-projects/spring-security/pull/7125,,,,,
+10833,Spring Security,https://github.com/spring-projects/spring-security/pull/10833,Maintainability,"""Java 17, removed deprecated User.withDefaultPasswordEncoder()""","""deprecated""",Title,
+7256,Spring Security,https://github.com/spring-projects/spring-security/pull/7256,Security,"""Add setter for authority prefix in JwtGrantedAuthoritiesConverter""
+""This way existing authorization checks using the standard 'ROLE_'""","""authority"", ""authorization""",Title,
+9726,Spring Security,https://github.com/spring-projects/spring-security/pull/9726,Maintainability,"""Can you please add a test for us""
+""I did a polish (02474fd) to add some additional binary files to .gitattributes.""","""test""
+""polish""",Discussion,
+10007,Spring Security,https://github.com/spring-projects/spring-security/pull/10007,None,,,,
+6833,Spring Security,https://github.com/spring-projects/spring-security/pull/6833,Security,"""Update OAuth2IntrospectionAuthenticationToken.java""",oauth,Title,
+18,Spring Security,https://github.com/spring-projects/spring-security/pull/18,Security,"""SEC-1915 Add cutomisation of search filter in ActiveDirectoryLdapAuthenticationProvider""","""sec""",Title,
+224,Spring Security,https://github.com/spring-projects/spring-security/pull/224,None,,,,
+3731,Spring Security,https://github.com/spring-projects/spring-security/pull/3731,Maintainability,"""I added this via a366489 and added a bit of Polish (i.e. added a test) via 3164bd6""","""polish""",Discussion,
+4853,Spring Security,https://github.com/spring-projects/spring-security/pull/4853,None,,,,
+5443,Spring Security,https://github.com/spring-projects/spring-security/pull/5443,Maintainability,"""Fixed document error""","""document""",Title,
+90,Spring Security,https://github.com/spring-projects/spring-security/pull/90,None,,,,
+3394,Spring Security,https://github.com/spring-projects/spring-security/pull/3394,Security,"""SEC-3189: By default use any RoleHierarchy Bean for SecurityExpressionHandler""","""SEC"", ""Security""",Title,
+7427,Spring Security,https://github.com/spring-projects/spring-security/pull/7427,None,,,,
+8754,Spring Security,https://github.com/spring-projects/spring-security/pull/8754,None,,,,
+10898,Spring Security,https://github.com/spring-projects/spring-security/pull/10898,Security,"""Fix for OAuth2AuthorizedClientArgumentResolver couldn't use ReactiveOAuth2AuthorizedClientManager""","""oauth"", ""authorized""",Description,
+8825,Spring Security,https://github.com/spring-projects/spring-security/pull/8825,"Maintainability, Security","""-gh 8784 Document improvement for WebSecurityConfigure""
+""Added details about how the authentication mechanism works with other security features for public APIs""","Maintainability: ""Document""
+Security: ""Security"", authentication""","Title, Description",
+8411,Spring Security,https://github.com/spring-projects/spring-security/pull/8411,Maintainability,"""Renamed Preface Section of docs to Introduction""","""docs""",Description,
+192,Spring Security,https://github.com/spring-projects/spring-security/pull/192,Security,"""Update SecurityNamespaceHandler.java""","""security""",Title,
+58,Spring Security,https://github.com/spring-projects/spring-security/pull/58,None,,,,
+3759,Spring Security,https://github.com/spring-projects/spring-security/pull/3759,,,,,
+7103,Spring Security,https://github.com/spring-projects/spring-security/pull/7103,Security,"""gh-7101 configurable authorities prefix on JwtGrantedAuthoritiesConverter #7103""","""authorities""",Title,
+37,Spring Security,https://github.com/spring-projects/spring-security/pull/37,Security,"""SEC-2192: Create AbstractSecurityWebApplicationInitializer.DEFAULT_FILTER_NAME""","""SEC"", Security""",Title,
+7673,Spring Security,https://github.com/spring-projects/spring-security/pull/7673,Maintainability,"""Remove consecutive-word duplications in Javadocs""","""javadocs""",Title,
+7052,Spring Security,https://github.com/spring-projects/spring-security/pull/7052,,,,,
+9050,Spring Security,https://github.com/spring-projects/spring-security/pull/9050,Maintainability,"""Javadoc for org.springframework.security.config.annotation.web.configurers.HeadersConfigurer class contained MSDN blog link that expired in March, 2016 and is not usable since""""","""javadoc""",Description,
+4136,Spring Security,https://github.com/spring-projects/spring-security/pull/4136,Security,"""Can you verify the primary AuthenticationManager is used in the test?""","""Authentication""",Discussion,
+8130,Spring Security,https://github.com/spring-projects/spring-security/pull/8130,None,,,,
+8112,Spring Security,https://github.com/spring-projects/spring-security/pull/8112,Security,"""Adds support for JWSKeySelector introspection given a valid JWK Set.""
+""This PR adds support for creating a JWSVerificationKeySelector dynamically based on the availability of JWK algorithms from a given JWK Set provided by an OIDC discovery document (7160). Non-standard or unknown algorithms will be silently ignored (see SignatureAlgorithm class). A warning log has also been added to let developers know if there was a problem fetching the JWK Set, although this does not halt the application from starting. The original functionality is still in place that adds the RS256 algorithm if none are provided during initial configuration for backwards compatibility. A new unit test as well as an extended mock JWK set for verification.""","""JWK"", RS256""","Title, Description",
+11610,Spring Security,https://github.com/spring-projects/spring-security/pull/11610,Maintainability,"""Add Kotlin example for WebTestClient setup docs""","""docs""",Title,
+4860,Spring Security,https://github.com/spring-projects/spring-security/pull/4860,,,,,
+5670,Spring Security,https://github.com/spring-projects/spring-security/pull/5670,Security,"""Add support for Feature-Policy security header""","""security""",Title,
+10608,Spring Security,https://github.com/spring-projects/spring-security/pull/10608,Security,"""Make Saml2AuthenticationRequests serializable""","""Saml2""",Title,
+6519,Spring Security,https://github.com/spring-projects/spring-security/pull/6519,None,,,,
+4374,Spring Security,https://github.com/spring-projects/spring-security/pull/4374,Maintainability,"""Fix Okta documentation and compiler error""","""documentation""",Title,
+10075,Spring Security,https://github.com/spring-projects/spring-security/pull/10075,,,,,
+8044,Spring Security,https://github.com/spring-projects/spring-security/pull/8044,Security,"""Change StandardPasswordEncoder default to ""SHA-512""""","""password"", ""SHA-512""",Title,
+9907,Spring Security,https://github.com/spring-projects/spring-security/pull/9907,Robustness,"""fix typo preventing full exception to be displayed in log""","""exception""",Title,
+10812,Spring Security,https://github.com/spring-projects/spring-security/pull/10812,,,,,
+4000,Spring Security,https://github.com/spring-projects/spring-security/pull/4000,Maintainability,"""This will improve AngularJS experience which sends an accept header which includes text/html""",Improve,Description (?),
+8392,Spring Security,https://github.com/spring-projects/spring-security/pull/8392,None,,,,
+4057,Spring Security,https://github.com/spring-projects/spring-security/pull/4057,Maintainability,"""Cleanup SessionFixationProtectionStrategy - 
+removed dead code introduced when removing deprecations in 6e204ff""",Cleanup,Description,
+5729,Spring Security,https://github.com/spring-projects/spring-security/pull/5729,None,,,,
+7229,Spring Security,https://github.com/spring-projects/spring-security/pull/7229,Maintainability,,,,
+7122,Spring Security,https://github.com/spring-projects/spring-security/pull/7122,None,,,,
+10671,Spring Security,https://github.com/spring-projects/spring-security/pull/10671,Maintainability,,,,
+6884,Spring Security,https://github.com/spring-projects/spring-security/pull/6884,Robustness,"""OAuth2LoginAuthenticationFilter should set AuthenticationDetails""",Should set,Description,
+4156,Spring Security,https://github.com/spring-projects/spring-security/pull/4156,None,,,,
+3803,Spring Security,https://github.com/spring-projects/spring-security/pull/3803,Maintainability,"""Fix typo in setMessageExpessionHandler""",Fix,Title,
+3939,Spring Security,https://github.com/spring-projects/spring-security/pull/3939,None,,,,
+11058,Spring Security,https://github.com/spring-projects/spring-security/pull/11058,Maintainability,"""Fix typo in reference documentation""","Fix, documentation",Title,
+5298,Spring Security,https://github.com/spring-projects/spring-security/pull/5298,Maintainability,"""Fix incorrect explanation for customizing query on JdbcDaoImpl""",Explanation,Title,
+9853,Spring Security,https://github.com/spring-projects/spring-security/pull/9853,Security,"""Support for X509 Certificate in RsaKeyConverters""",Support,Title,
+70,Spring Security,https://github.com/spring-projects/spring-security/pull/70,None,,,,
+3864,Spring Security,https://github.com/spring-projects/spring-security/pull/3864,None,,,,
+9586,Spring Security,https://github.com/spring-projects/spring-security/pull/9586,Security,"""gh-8143-coroutines-method-security""",Security,Discussion,
+7071,Spring Security,https://github.com/spring-projects/spring-security/pull/7071,Robustness,"""Add authenticationFailureHandler method in OAuth2LoginSpec""",Failure Handler,Title,
+9561,Spring Security,https://github.com/spring-projects/spring-security/pull/9561,Robustness,"""Add null check in CsrfFilter and CsrfWebFilter""",Null check,Title,
+8714,Spring Security,https://github.com/spring-projects/spring-security/pull/8714,None,,,,
+10500,Spring Security,https://github.com/spring-projects/spring-security/pull/10500,Robustness,"""Fix JwtClaimValidator error type """,Error,Title,
+10450,Spring Security,https://github.com/spring-projects/spring-security/pull/10450,None,,,,
+3944,Spring Security,https://github.com/spring-projects/spring-security/pull/3944,None,,,,
+6842,Spring Security,https://github.com/spring-projects/spring-security/pull/6842,None,,,,
+9768,Spring Security,https://github.com/spring-projects/spring-security/pull/9768,Maintainability,"""Introduce a plugin that checks for tangles.""",Check,Description,
+6439,Spring Security,https://github.com/spring-projects/spring-security/pull/6439,None,,,,
+9153,Spring Security,https://github.com/spring-projects/spring-security/pull/9153,Performance,"""Check of allowed user sessions count moved to head for avoid unnecessary fetching all user sessions.""",Unnecessary fetching,Description,
+166,Spring Security,https://github.com/spring-projects/spring-security/pull/166,None,,,,
+10603,Spring Security,https://github.com/spring-projects/spring-security/pull/10603,Maintainability,"""Support multiple RequestRejectedHandler beans.""",Support,Title,
+11495,Spring Security,https://github.com/spring-projects/spring-security/pull/11495,Robustness,"""Add remaining methods from ExpressionUrlAuthorizationConfigurer to AuthorizeHttpRequestsConfigurer""",Add,Title,
+5075,Spring Security,https://github.com/spring-projects/spring-security/pull/5075,None,,,,
+3945,Spring Security,https://github.com/spring-projects/spring-security/pull/3945,Robustness,"""LogoutConfigurer: only allow suitable http methods""",Suitable,Title,
+5776,Spring Security,https://github.com/spring-projects/spring-security/pull/5776,Robustness,"""Client throws OAuth2AuthorizationException in authorization flows""",Throws,Title,
+258,Spring Security,https://github.com/spring-projects/spring-security/pull/258,None,,,,
+10970,Spring Security,https://github.com/spring-projects/spring-security/pull/10970,None,,,,
+202,Spring Security,https://github.com/spring-projects/spring-security/pull/202,Maintainability,"""Add missing jstl dependency""",Dependency,Title,
+7534,Spring Security,https://github.com/spring-projects/spring-security/pull/7534,Robustness,"""This makes sense and it looks like there is indeed an issue with the AuthorizedClientProvider implementations. Let me investigate this further.""",Issue,Discussion,
+4986,Spring Security,https://github.com/spring-projects/spring-security/pull/4986,None,,,,
+6283,Spring Security,https://github.com/spring-projects/spring-security/pull/6283,None,,,,
+6066,Spring Security,https://github.com/spring-projects/spring-security/pull/6066,None,,,,
+5379,Spring Security,https://github.com/spring-projects/spring-security/pull/5379,None,,,,
+8740,Spring Security,https://github.com/spring-projects/spring-security/pull/8740,None,,,,
+11395,Spring Security,https://github.com/spring-projects/spring-security/pull/11395,Maintainability,"""Update to Kotlin 1.7.0""",Update,Title,
+6659,Spring Security,https://github.com/spring-projects/spring-security/pull/6659,None,,,,
+5216,Spring Security,https://github.com/spring-projects/spring-security/pull/5216,Robustness,"""After trying to find out the cause of the error, including being suspicious of the database driver I was using, I tracked the bug down to the fact that the identifier of the ObjectIdentity""",Error,Description,
+7758,Spring Security,,None,,,,
+10175,Spring Security,,Robustness,"""exception handling"", ""Confirmation of NPE""","""exception handling"", ""NPE""",Discussion,
+40,Spring Security,,"Security, Performance","Security: ""The authentication test is"", 
+Performance: ""We think there is a performance problem even in the original CAS client""","Security: ""authentication""
+Performance: ""performance""",Discussion,
+3779,Spring Security,,"Performance, Maintainability","Performance: ""this implementation is 3x slower than JCE""
+Maintainability: ""caused more code/complexity than intended""","Performance: ""slower""
+Maintainability: ""complexity""","Description, Discussion",
+7815,Spring Security,,Robustness,"""I get following exception""","""exception""",Discussion,
+9668,Spring Security,,Maintainability,"Maintainability: ""Clean up Reference Documentation"", ""added quite a few links to the Javadoc""","Maintainability: ""documentation"", ""javadoc""",Discussion,
+6606,Spring Security,,None,-,-,-,
+5994,Spring Security,,None,-,-,-,
+9659,Spring Security,,None,-,-,-,
+9867,Spring Security,,None,-,-,-,
+5992,Spring Security,,None,-,-,-,
+5501,Spring Security,,Robustness,"""The NPE can only happen if the user explicitly calls""","""NPE",Discussion,
+9630,Spring Security,,None,-,-,,
+4515,Spring Security,,Robustness,"""i.e. such scenario will result in IllegalArgumentException""","""IllegalArgumentException""",Discussion,
+69,Spring Security,,Robustness,"""support for both handlers types""","""handlers""",Discussion,
+9098,Spring Security,,"Security, Robustness","Security, Robustness: ""authentication handlers returning""","Security: ""authentication""
+Robustness: ""handlers""",Title,
+6748,Spring Security,https://github.com/spring-projects/spring-security/pull/6748,Maintainability,"""Introduce JWT Flow API in Test Support""","""Test"", ""Support""",Discussion,
+9874,Spring Security,https://github.com/spring-projects/spring-security/pull/9874,None,,,,
+6126,Spring Security,https://github.com/spring-projects/spring-security/pull/6126,None,,,,
+8434,Spring Security,https://github.com/spring-projects/spring-security/pull/8434,Performance,"""once they will throw exceptions this PR will be completed.""","""Missing"", ""Exception"", ""Throw""",Discussion,
+6765,Spring Security,https://github.com/spring-projects/spring-security/pull/6765,None,,,,
+6526,Spring Security,https://github.com/spring-projects/spring-security/pull/6526,Security,"""ServletOAuth2AuthorizedClientExchangeFilterFunction Does Not Work For Chained Reactive Methods""",,Title,
+6297,Spring Security,https://github.com/spring-projects/spring-security/pull/6297,Maintainability,"""removes existence validation of a method only available in Servlet 3.1 ... is no longer required""","""No required"", ""Remove support""",Discussion,
+9513,Spring Security,https://github.com/spring-projects/spring-security/pull/9513,None,,,,
+5656,Spring Security,https://github.com/spring-projects/spring-security/pull/5656,None,,,,
+7260,Spring Security,https://github.com/spring-projects/spring-security/pull/7260,None,,,,
+6141,Spring Security,https://github.com/spring-projects/spring-security/pull/6141,None,,,,
+6658,Spring Security,https://github.com/spring-projects/spring-security/pull/6658,Maintainability,"""Cleanup""",,Title,
+4504,Spring Security,https://github.com/spring-projects/spring-security/pull/4504,Maintainability,"""Add localization to error messages from ExceptionTranslationFilter""","""error messages""",Discussion,
+11171,Spring Security,https://github.com/spring-projects/spring-security/pull/11171,None,,,,
+6198,Spring Security,https://github.com/spring-projects/spring-security/pull/6198,Security,"""Added support for Anonymous Authentication""","""Anonymous"", ""Autentication""",Discussion,
+6036,Spring Security,https://github.com/spring-projects/spring-security/pull/6036,Security,"""Updated DefaultBearerTokenResolver to comply with specification""","""Bearer"", ""Token"", ""RFC""",Discussion,
+8445,Spring Security,https://github.com/spring-projects/spring-security/pull/8445,Security,"""client secret jwt"" and ""private key jwt"" auth methods","secret, key, kwt, auth",Title,
+5355,Spring Security,https://github.com/spring-projects/spring-security/pull/5355,Security,Add ClientRegistration from OpenID Connect Discovery,"Registration, openID",Title,
+8399,Spring Security,https://github.com/spring-projects/spring-security/pull/8399,Robustness,Throw exception if URL does not include context path when context relative,exception,Title,
+9779,Spring Security,https://github.com/spring-projects/spring-security/pull/9779,Security,Access Token Response supports any data type,token,Title,"É um daqueles casos complexos onde olhando só para as keywords poderia dar um falso positivo. Fiquei na dúvida originalmente se marcaria esse como de segurança, e olhando só para o corpo da issue e os comentários continuei na dúvida. Porém, dentro do corpo da PR tem uma issue linkada, que explica que essa mudança tem a ver com a conformidade com o padrão de requisição de autenticação do oauth2. Sendo isso, considerei de segurança."
+9839,Spring Security,https://github.com/spring-projects/spring-security/pull/9839,None,-,-,-,-
+8732,Spring Security,https://github.com/spring-projects/spring-security/pull/8732,Security,Register RestOperations @Bean for OAuth 2.0 Client,OAuth,Title,
+7821,Spring Security,https://github.com/spring-projects/spring-security/pull/7821,Security,"Oauth2login xmlconfig implementation
+
+gh-6802: When Form Login is configured, the login page should never be
+skipped","Oauth2, login","Title, Description",A informação mais importante aqui para definir que é segurança novamente está em uma das issues mencionadas no corpo do PR.
+6799,Spring Security,https://github.com/spring-projects/spring-security/pull/6799,Maintainability,-,-,Description,"Infelizmente a PR não tem descrição e as informações estão todas na issue, lá, se conversa sobre reuso de código na implementação."
+5753,Spring Security,https://github.com/spring-projects/spring-security/pull/5753,Security,Jwt Claim Mapping,"JWT, Claim",Title,
+7324,Spring Security,https://github.com/spring-projects/spring-security/pull/7324,Security,Final redirect in OAuth2AuthorizationCodeGrantFilter needs to be configurable,"Oauth2, authorization",Title,
+7025,Spring Security,https://github.com/spring-projects/spring-security/pull/7025,"Security, Robustness","Add Generic AuthenticationFilter
+
+the AbstractAuthenticationProcessingFilter.requiresAuthentication() method modified here to throw exceptions because these exceptions declared for AbstractAuthenticationProcessingFilter.unsuccessfulAuthentication method, which need to be called within GenericAuthenticationFilter.requiresAuthentication in case of AuthenticationConverter.convert decides to throw the AuthenticationException. So this seems necessary to have this change.","Authentication, exception","Title, Description",
+6775,Spring Security,https://github.com/spring-projects/spring-security/pull/6775,None,-,-,-,"Por mais que possívelmente a PR se referia a um problema que crashava com uma exceção. A solução nesse caso foi apenas corrigir o bug e não alterar o fluxo de exceção, o que pra mim não contaria como robustez."
+6627,Spring Security,https://github.com/spring-projects/spring-security/pull/6627,Security,This commit updates URLs to prefer the https protocol. Redirects are not followed to avoid accidentally expanding intentionally shortened URLs (i.e. if using a URL shortener).,https,Description,
+6050,Spring Security,https://github.com/spring-projects/spring-security/pull/6050,None,-,-,-,"Mesmo caso do anterior, um bug que causava um crash com uma exceção. A solução foi consertar o bug."
+6189,Spring Security,https://github.com/spring-projects/spring-security/pull/6189,Security,…y Auth0 and OneLogin),Auth0 and OneLogin,"Title?, Description","Caso estranho, a descrição é somente uma continuação do título pois faltou espaço, então é possível supor que em outros casos essa informação talvez estivesse no título"
+7826,Spring Security,https://github.com/spring-projects/spring-security/pull/7826,"Security, Robustness",Improve Bearer Token Error Handling,"Error Handling, Token, Bearer",Title,
+6352,Spring Security,,Security,"""Add Support for Opaque OAuth2 Tokens to Resource Server"", ""supporting oauth2 log in and resource server do we want them to have to configure the client id/secret twice?"",","oauth2, server, secret","Title, Comment",-
+10339,Spring Security,,Security,"""Add postProcess support to Saml2LogoutConfigurer, closes gh-10311""",saml2,Title,-
+6623,Spring Security,,None,-,-,-,-
+6485,Spring Security,,Security,"""Add client support for PKCE"", ""Bottom line: I don't think this is the target use-case for spring security client PKCE support but could be used in theory."", ""thereby making the client_secret unviable and PKCE a good fit. Turning non-web apps into web ones feels a bit heavy but simple."",""These authorization request"", ""We probably don't need PKCE support."", ""Is this the best way to determine if PKCE should be used? This seems implicit rather than explicit which can lead to problems later on (if there are other reasons the client secret can be empty). Additionally implicit options in security tends to lead to security vulnerabilities."", ""PKCE is meant to be used for Public Clients leveraging the Authorization Code grant. Public Clients are not assigned full credentials (no client secret). So I guess I'm confused with what the user is saying."", ""Looking at the Okta developer guide for Authorization Code Flow with PKCE, you will see that the client authentication is not required (so no client_secret)."", ""And for the standard Authorization Code Flow, you will see that the client authentication is required as this flow is targeted for confidential clients."",""The current best practices for OAuth security specifies that PKCE should also be used for webapps:"", ""supported by popular OAuth 2.0 Providers. "", so on","PKCE, security, oauth2, client_secret, vulnerabilities, public clients, authorization","Title, Description, Comment",Discussão bem interessante
+255,Spring Security,,Security,"""In case you don't use a message digest - leaking the length of the password could be useful for an attacker."", ""Some of this has to do with the complexities of cryptography"", ""Clearly it should. When dealing with frameworks especially, framework developers should address all known security vulnerabilities because one cannot possibly be aware of all your client's threat models."", ""Also, the timing differences per character are sub-nanosecond IIRC. Very very small. So unless you're on the local network with a vulnerable string comparison running on a slow 8-bit processor (think IoT), then you're probably not vulnerable."", ""So it would seem if we want to prevent the length from leaking,"", ""In shared hosting, one can't guarantee that an attacker does not have an instance on the same LAN or even on the same host as the victim.'","leaking, password, attacker, cryptography, vulnerabilities, threat, vulnerable, leaking, victim","Title, Description",Discussão bem interessante
+9483,Spring Security,,None,-,-,-,-
+7116,Spring Security,,None,-,-,-,-
+9865,Spring Security,,Maintainability,"""Now I see the confusion: The Spring JavaFormat covers and reports other errors apart of the whitespace format control, I remember clearly 2 right now:"", ""that's why I created the new Formatting section"", ""Leave the Formatting section, but reword it with an emphasis on preparing the contribution, for example:"", ""Remove the Mind the Whitespace section (the above would replace it). At this point, it doesn't seem that AnyEdit is necessary to meet the Spring Security formatting guidelines.""","javaformat, whitespace format, formatting, anyedit, guidelines",Comment,-
+3812,Spring Security,,None,-,-,-,-
+7756,Spring Security,,None,-,-,-,-
+3764,Spring Security,,None,-,-,-,-
+7981,Spring Security,,None,-,-,-,-
+8616,Spring Security,,None,-,-,-,-
+9392,Spring Security,,None,-,-,-,PR Rejeitada
+5356,Spring Security,,None,-,-,-,-
+9055,Spring Security,,Security,"""This isn't thread-safe. Because the decrypter instance is changed with each authentication, two concurrent authentication attempts will clobber each other's value here.
+
+Instead, the default values below will need to construct a Decrypter using the details from Saml2AuthenticationToken. For assertionDecrypter, I think this will look something like:"", ""doing the elements decryption. Is there a reason this check was added?', "" Thus having an unsigned SAML Response with an encrypted signed Assertion should still decrypt the assertion and then checking that it has been signed before throwing the error""","thread, safe, decrypter, authentication, saml2, saml",Comment,-
+5624,Spring Security,https://github.com/spring-projects/spring-security/pull/5624,Security,"""Jwt Claim Validation""","""jwt"", ""validation""",Title,
+5353,Spring Security,https://github.com/spring-projects/spring-security/pull/5353,None,,,,
+10432,Spring Security,,,,,,
+9520,Spring Security,https://github.com/spring-projects/spring-security/pull/9520,Security,"""Add Jwt Client Authentication support""","""jwt"", ""Authentication""",Title,
+7240,Spring Security,https://github.com/spring-projects/spring-security/pull/7240,Performance,"""just provides slightly better performance.""","""performance""",Discussion,
+10060,Spring Security,https://github.com/spring-projects/spring-security/pull/10060,"Security, Maintainability","""Add Saml2AuthenticationRequestRepository""
+""In addition to the Comment, please also add DSL support and docs""","Security: ""saml2""
+Maintainability: ""docs""","Title, Discussion",
+3938,Spring Security,https://github.com/spring-projects/spring-security/pull/3938,None,,,,
+5918,Spring Security,https://github.com/spring-projects/spring-security/pull/5918,None,,,,
+8644,Spring Security,https://github.com/spring-projects/spring-security/pull/8644,,,,,
+4042,Spring Security,https://github.com/spring-projects/spring-security/pull/4042,Security,"""Fix Issue 4001: CSRF tokens are vulnerable to a BREACH attack""","""vulnerable"", ""attack""",Title,
+6039,Spring Security,https://github.com/spring-projects/spring-security/pull/6039,Maintainability,"""This is impacts tests globally which is not ideal (it likely invalidates other test assumptions). Let's write a single test for this specific case without impacting other tests.""","""test""",Discussion,
+5090,Spring Security,https://github.com/spring-projects/spring-security/pull/5090,Security,"""Can you think of anything an oauth2 client would want resolved for it in the future that this annotation would not be applicable for?""
+""Possibly a RefreshToken, IDToken, Jwt, or IntrospectedAccessToken""","""oauth2"", ""jwt""""",Discussion,
+10933,Spring Security,https://github.com/spring-projects/spring-security/pull/10933,Robustness,"""In this case the instantiation of DelegatingPasswordEncoder works fine, but calling the matches(CharSequence, String) method throws an exception.""","""throws""",Description,
+9524,Spring Security,https://github.com/spring-projects/spring-security/pull/9524,None,,,,
+9770,Spring Security,https://github.com/spring-projects/spring-security/pull/9770,Robustness,"""Fixes an issue where custom status codes in the error response cause an
+IllegalArgumentException to be thrown when resolving an HttpStatus.""","""IllegalArgumentException"", ""thrown""",Description,
+8622,Spring Security,https://github.com/spring-projects/spring-security/pull/8622,None,,,,
+6845,Spring Security,,Security,"""Introduce OAuth2AuthorizedClient Manager/Provider""",OAuth2,Title,
+6040,Spring Security,,None,,,,
+6495,Spring Security,,Maintainability,"""Support symmetric key for JwtDecoder""",Support,Title,
+5084,Spring Security,,Security,"""Add support for authorization_code grant""",Authorization,Title,
+8795,Spring Security,,Maintainability,"""Fix #8693 Support SAML 2.0 SP Metadata Endpoints""",Fix,Title,
+10849,Spring Security,,Robustness,"""Add support for validation of InResponseTo attribute when validating SAML2 responses""",Validation,Title,
+6633,Spring Security,,None,,,,
+10679,Spring Security,,Maintainability,"""Improve GRADLE build Performance""",Build,Title,
+9208,Spring Security,,Security,"""I decided to remove CryptoKey and CryptoKeySource in favour of KeySource, which ""supplies"" java.security.KeyPair's and/or javax.crypto.SecretKey's.""","JWT, Crypto",Discussion,
+8996,Spring Security,,Security,"""Add AuthorizationManager""",Authorization,Title,
+6514,Spring Security,,Robustness,"""OidcIdTokenValidator ensures clockSkew is positive number""",Ensure,Title,
+9336,Spring Security,,Robustness,"""Make user info response status check error only""",Error,Title,
+7432,Spring Security,,Robustness,"""SAML Assertion validation should propagate errors""",Error,Description,
+7042,Spring Security,,Security,"""This will allow the upgradeEncoding mechanism to upgrade from a lower-strength bcrypt to a higher-strength bcrypt encoding.""",Higher-strength,Description,
+9196,Spring Security,,Performance,"""Allow maximum age of csrf cookie to be configured""",Maximum age,Title,
+11,Spring Security,Add remember-me support for CAS by leleuj · Pull Request #11 · spring-projects/spring-Security · GitHub,None,,,,
+24,Spring Security,https://github.com/spring-projects/spring-Security/pull/24,None,,,,
+8667,Spring Security,https://github.com/spring-projects/spring-Security/pull/8667,None,,,,"tem a ver com a recuperação de atributos na authenticação, não entendi como uma issue propriamente de segurança"
+7693,Spring Security,https://github.com/spring-projects/spring-Security/pull/7693,None,,,,
+4257,Spring Security,https://github.com/spring-projects/spring-Security/pull/4257,None,,,,"como permite autenticação externa, entendi como uma evolução de features e não como uma questão necessariamente de segurança"
+7329,Spring Security,https://github.com/spring-projects/spring-Security/pull/7329,Security,"""Authorization Response should also match on query parameters"" ""When a service is registered with redirect_uri that has query parameter (e.g: http://some/auth?param=foo), current OAuth2AuthorizationCodeGrantFilter doesn't work well.""","""doesn't work well"" ""authorization resonse should also match""","Title, Description",
+4238,Spring Security,https://github.com/spring-projects/spring-Security/pull/4238,,,,,
+5476,Spring Security,https://github.com/spring-projects/spring-Security/pull/5476,Security,"""Introduce support for OAuth 2.0 Bearer Token Authentication with JWT-encoded bearer tokens. This includes support for remote JWK set signature verification.""","""JWK""
+""Token Authentication""",Description,
+8507,Spring Security,,,,,,
+8082,Spring Security,https://github.com/spring-projects/spring-Security/pull/8082,Security,"""Fixes gh-4001 : CSRF token BREACH Attack ""","""Attack"" ""breach"" ""CSRF""",Title,
+215,Spring Security,https://github.com/spring-projects/spring-Security/pull/215,Robustness,"""Resolves SEC-3066 by handling exception"" ""SEC-3066: DefaultMethodSecurityExpressionHandler does not handle NotFoundException when using a PermissionCacheOptimizer""","""handling exception"" ""does not handle""","Title, comment",
+5509,Spring Security,https://github.com/spring-projects/spring-Security/pull/5509,Robustness,"""Override the key to avoid CookieTheftException""","""avoid CookieTheftExcetion""",Title,
+6813,Spring Security,https://github.com/spring-projects/spring-Security/pull/6813,Robustness,"""Detect authorization bearer token properly"" ""DefaultBearerTokenResolver has a bug that makes it miss authorization bearer tokens, if the ""Bearer"" is written in lower case as ""bearer"".""","""bearer token propperly"" ""miss authorization bearer tokens""","Title, Description","o contexto é de segurança, mas entendi como um problema de robustez por não tratar lowercase"
+6901,Spring Security,https://github.com/spring-projects/spring-Security/pull/6901,None,,,,
+8752,Spring Security,https://github.com/spring-projects/spring-Security/pull/8752,Security,"""Add support for dynamic JWS signature algorithm with JWKs (2)""
+""This PR adds support for creating a JWSVerificationKeySelector dynamically based on the availability of JWK algorithms from a given JWK Set provided by an OIDC discovery document (Issue 7160). Non-standard or unknown algorithms will be silently ignored (see SignatureAlgorithm class). A warning log has also been added to let developers know if there was a problem fetching the JWK Set, although this does not halt the application from starting.""","""JWS"" ""JWK"" ""non-standard or unknown alorithms will be silently ignored""","Title, Description",
+9737,Spring Security,https://github.com/spring-projects/spring-Security/pull/9737,Security,"""Create SecurityMockMvcResultHandlers to define Security related MockMvc ResultHandlers""","""define Security""",Description,"aparentemente possui finalidade de segurança, mas não fica claro o que é ""define Security"""
