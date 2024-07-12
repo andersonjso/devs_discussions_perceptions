@@ -22,7 +22,7 @@ Non-Functional Requirements (NFRs) should be defined in the early stages of the 
 
 # Dataset
 
-We provide a dataset with 1,383 PR discussions classified regarding NFR presence. After manual classification, we built a dataset composed of PR
+We provide a dataset with 1,583 PR discussions classified regarding NFR presence. After manual classification, we built a dataset composed of PR
 discussions, each one classified in terms of (i) the presence of the NFRs type addressed, (ii) the location in the PR where the discussions are triggered, (iii) keywords mentioned in the discussion, and (iv) discussion content addressing the NFR. This classification allowed us to characterize the PR discussions and identify the developers discussing NFRs. The dataset is available at This material is available at [`/artifacts/dataset.csv`](https://github.com/devs-discussions-perceptions/devs_discussions_perceptions_paper/blob/main/artifacts/dataset.csv) 
 
 The .csv file is structured with the following columns
